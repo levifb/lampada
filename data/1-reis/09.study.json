@@ -1,0 +1,72 @@
+{
+ "titulo": "O mistério dos portões",
+ "chamada": "Jeová aparece a Salomão pela segunda vez com uma promessa e um aviso. Séculos depois, arqueólogos usam um versículo deste capítulo como mapa do tesouro.",
+ "rei": "Salomão",
+ "onde": "Jerusalém · Hazor · Megido · Gezer",
+ "capa": { "img": "img/my/1101978119-0.jpg", "alt": "Salomão ora a Jeová Deus no templo recém-construído", "legenda": "Salomão constrói o templo · Meu Livro de Histórias Bíblicas", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101978119" },
+ "intro": "Já se passaram 20 anos de obras: 7 no templo e 13 no palácio. Jeová aparece de novo a Salomão e responde, com palavras, à oração da inauguração. Ele já tinha respondido naquele dia, com fogo do céu. A resposta vem com um aviso: continuar fiel como Davi, ou perder tudo.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200004178#h=18:0-19:0",
+ "achados": [
+  {
+   "v": 3, "tag": "Cronologia",
+   "titulo": "Jeová demorou 12 anos para responder?",
+   "texto": [
+    "Esta aparição vem cerca de 12 anos depois da oração da inauguração. Mas Jeová não demorou: naquele dia, fogo desceu do céu e a glória dele encheu o templo, e todos entenderam isso como resposta.",
+    "A segunda aparição mostra que Deus não tinha esquecido a oração. Agora ele confirma a resposta com palavras e acrescenta um conselho para Salomão continuar fiel."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200004178#h=18:0-19:0", "fonteNome": "Perspicaz · Salomão"
+  },
+  {
+   "v": 4, "tag": "Para refletir",
+   "titulo": "Davi, um homem íntegro?",
+   "texto": [
+    "Davi cometeu pecados graves, como o adultério com Bate-Seba. Mesmo assim, Jeová diz que ele andou “com integridade de coração”.",
+    "Apesar dos erros, Davi se arrependia e procurava agir de acordo com a vontade de Jeová. Integridade não é perfeição: é um coração inteiro para Deus."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1997321#h=9:0-11:0", "fonteNome": "A Sentinela 1/5/1997"
+  },
+  {
+   "v": 13, "tag": "Por quê?",
+   "titulo": "As cidades que não agradaram a Hirão",
+   "texto": [
+    "Salomão deu a Hirão 20 cidades da Galileia. Hirão não gostou e chamou a região de “Terra de Cabul”.",
+    "A Lei não permitia vender terra de forma definitiva, mas talvez fossem cidades habitadas por não israelitas, na fronteira. Pode ser também um sinal de que Salomão já não seguia a Lei tão de perto. E Hirão? Talvez as cidades estivessem malcuidadas ou mal localizadas."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005487#h=13:0-14:0", "fonteNome": "A Sentinela 1/7/2005 · Destaques de 1 Reis"
+  },
+  {
+   "v": 15, "tag": "Arqueologia",
+   "titulo": "Hazor, Megido e Gezer: o mesmo portão",
+   "texto": [
+    "Em Megido, arqueólogos encontraram um portão monumental com torres e seis câmaras para guardas, de pedra talhada, típico da época de Salomão.",
+    "Em 1955, o arqueólogo Yigael Yadin foi a Hazor pensando em 1 Reis 9:15. Achou um portão idêntico. Ele marcou no chão a planta do portão de Megido e disse aos trabalhadores onde iriam encontrar cada muro, e acertou. Depois, reexaminando antigos relatórios de Gezer, achou ali o mesmo projeto. Yadin comentou que, com isso, o prestígio da Bíblia “subiu às alturas”."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1988606#h=1:0-19:0", "fonteNome": "A Sentinela 15/8/1988 · O mistério dos portões"
+  },
+  {
+   "v": 22, "tag": "Palavra-chave",
+   "titulo": "Os “ajudantes de ordens”",
+   "texto": [
+    "Salomão não fez dos israelitas escravos. Eles eram guerreiros, oficiais e “ajudantes de ordens”, em hebraico shalishím.",
+    "A palavra parece vir de “terceiro”. Pode se referir ao terceiro homem do carro de guerra, que segurava o escudo, ou a um oficial de alta confiança do rei."
+   ],
+   "img": "img/wol/it-1-2020-19.jpg", "alt": "Três homens num carro de guerra assírio",
+   "legenda": "Três homens num carro de guerra assírio · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000102#h=4:0-5:0", "fonteNome": "Perspicaz · Ajudante de ordens"
+  },
+  {
+   "v": 28, "tag": "A Bíblia se contradiz?",
+   "titulo": "420 ou 450 talentos?",
+   "texto": [
+    "Aqui, a frota de Salomão traz de Ofir 420 talentos de ouro. Em 2 Crônicas 8:18, são 450.",
+    "Alguns peritos sugerem que a diferença surgiu quando letras eram usadas como números: um copista antigo pode ter confundido duas letras hebraicas parecidas."
+   ],
+   "img": "img/wol/nwtsty-2026-98.jpg", "alt": "Apêndice B7: Reino de Davi e de Salomão",
+   "legenda": "B7 · Reino de Davi e de Salomão · Tradução do Novo Mundo",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003336#h=4:0-5:0", "fonteNome": "Perspicaz · Ofir"
+  }
+ ],
+ "mais": [
+  { "rotulo": "B7 · Reino de Davi e de Salomão (mapa) · TNM", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1001070227" }
+ ]
+}

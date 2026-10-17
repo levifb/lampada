@@ -1,0 +1,98 @@
+{
+ "titulo": "Jaquim, Boaz e o Mar",
+ "chamada": "Um palácio que levou 13 anos, colunas de cobre com nome próprio e um tanque de água para dezenas de milhares de litros.",
+ "rei": "Salomão",
+ "onde": "Jerusalém · Distrito do Jordão",
+ "capa": {
+  "img": "img/it/1200001397-0.jpg",
+  "alt": "As colunas Jaquim e Boaz, o Mar de fundição e o altar de cobre diante do templo",
+  "legenda": "Diante do templo de Salomão · Perspicaz",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001397"
+ },
+ "intro": "Terminado o templo, Salomão constrói o complexo do palácio: a Casa da Floresta do Líbano, o Pórtico das Colunas e o Pórtico do Trono. Depois o capítulo volta ao templo para mostrar o trabalho de um artesão brilhante, também chamado Hirão.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003528#h=3:0-6:0",
+ "achados": [
+  {
+   "v": 2,
+   "tag": "Arquitetura",
+   "titulo": "Uma “floresta” de cedros",
+   "texto": [
+    "A Casa da Floresta do Líbano media 100 côvados de comprimento (44 m), 50 de largura (22 m) e 30 de altura (13 m).",
+    "As vigas de cedro se apoiavam em quatro fileiras de colunas de cedro. Dá para imaginar a sensação de caminhar entre troncos, e daí o nome."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002096#h=3:0-5:0",
+   "fonteNome": "Perspicaz · Casa da Floresta do Líbano"
+  },
+  {
+   "v": 7,
+   "tag": "Arquitetura",
+   "titulo": "O Pórtico do Trono",
+   "texto": [
+    "O “pórtico do julgamento” parece ser o mesmo Pórtico do Trono. Era ali que ficava o trono de marfim e ouro descrito no capítulo 10, onde Salomão julgava os casos.",
+    "Era todo forrado de cedro, do piso às vigas."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003528#h=6:0-9:0",
+   "fonteNome": "Perspicaz · Pórtico"
+  },
+  {
+   "v": 14,
+   "tag": "A Bíblia se contradiz?",
+   "titulo": "Naftali ou Dã?",
+   "texto": [
+    "1 Reis diz que a mãe do artesão Hirão era viúva da tribo de Naftali. 2 Crônicas diz que ela era de Dã.",
+    "A explicação: ela era da tribo de Dã, mas tinha se casado com um homem de Naftali. Quando ficou viúva, casou-se com um homem de Tiro. Hirão nasceu desse segundo casamento."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005884#h=10:0-11:0",
+   "fonteNome": "A Sentinela 1/12/2005 · Destaques de 2 Crônicas"
+  },
+  {
+   "v": 21,
+   "tag": "Significado",
+   "titulo": "Colunas que formavam uma frase",
+   "texto": [
+    "A coluna do sul se chamava Jaquim, “Que [Jeová] Estabeleça Firmemente”. A do norte, Boaz, possivelmente “Em Força”.",
+    "Lidas juntas, as duas transmitiam a ideia de que Jeová estabeleceria firmemente o templo, com força. Elas ficaram de pé por mais de 400 anos, até a destruição de Jerusalém em 607 a.C."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000780#h=1:0-4:0",
+   "fonteNome": "Perspicaz · Boaz",
+   "img": "img/wol/mwb22-2022-720.jpg",
+   "alt": "O pórtico do templo com duas colunas na entrada",
+   "legenda": "O que duas colunas nos ensinam · Apostila Vida e Ministério"
+  },
+  {
+   "v": 23,
+   "tag": "A Bíblia e a ciência",
+   "titulo": "Pi errado na Bíblia?",
+   "texto": [
+    "O Mar media 10 côvados de diâmetro e 30 de circunferência. Alguns dizem que a Bíblia errou o valor de pi.",
+    "Mas esses podem ser números arredondados. Também é possível que o texto fale da circunferência interna (sem a borda) e do diâmetro externo (com a borda), e aí as contas fecham."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/502014236#h=21:0-22:0",
+   "fonteNome": "Perguntas Bíblicas Respondidas"
+  },
+  {
+   "v": 26,
+   "tag": "A Bíblia se contradiz?",
+   "titulo": "2 mil ou 3 mil batos?",
+   "texto": [
+    "1 Reis diz que o Mar continha 2.000 batos (cerca de 44 mil litros). 2 Crônicas fala em 3.000 batos (cerca de 66 mil litros).",
+    "Uma explicação: 3.000 batos era a capacidade total, e 2.000 era o nível normal de uso, uns dois terços do tanque."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005884#h=13:0-14:0",
+   "fonteNome": "A Sentinela 1/12/2005 · Destaques de 2 Crônicas"
+  },
+  {
+   "v": 46,
+   "tag": "Arqueologia",
+   "titulo": "A fundição entre Sucote e Zaretã",
+   "texto": [
+    "O texto diz que os objetos de cobre foram fundidos no Distrito do Jordão, entre Sucote e Zaretã.",
+    "A arqueologia confirma muitas declarações de 1 Reis, e esta é uma delas: escavações no local da antiga Sucote revelaram evidências de atividades de fundição."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101990072#h=9:0-10:0",
+   "fonteNome": "“Toda a Escritura” · 1 Reis"
+  }
+ ],
+ "pergunta": "Como eu demonstro na minha vida que estou confiando em Jeová?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022261"
+}

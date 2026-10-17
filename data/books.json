@@ -1,0 +1,50 @@
+[
+ {
+  "slug": "1-reis",
+  "nome": "1 Reis",
+  "capitulos": 22,
+  "fonte": "https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/1-reis-conteudo/",
+  "capa": {
+   "img": "img/lfb/historia-44-1.jpg",
+   "alt": "O rei Salomão ora",
+   "fonte": "https://wol.jw.org/pt/wol/mp/r5/lp-t/lfb/2017/448",
+   "pagina": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016054"
+  }
+ },
+ {
+  "slug": "2-reis",
+  "nome": "2 Reis",
+  "capitulos": 25,
+  "fonte": "https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/2-reis-conteudo/",
+  "capa": {
+   "img": "img/lfb/historia-52-1.jpg",
+   "alt": "Eliseu e seu servo veem o exército de anjos em volta deles",
+   "fonte": "https://wol.jw.org/pt/wol/mp/r5/lp-t/lfb/2017/527",
+   "pagina": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016062"
+  }
+ },
+ {
+  "slug": "jonas",
+  "nome": "Jonas",
+  "capitulos": 4,
+  "fonte": "https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/jonas-conteudo/",
+  "capa": {
+   "img": "img/ia/1102013259-0.jpg",
+   "alt": "O profeta Jonas",
+   "fonte": "https://wol.jw.org/pt/wol/mp/r5/lp-t/ia/2013/117",
+   "pagina": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102013259"
+  }
+ },
+ {
+  "slug": "daniel",
+  "nome": "Daniel",
+  "capitulos": 12,
+  "fonte": "https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/daniel-conteudo/",
+  "capa": {
+   "img": "img/lfb2/1102016069-0.jpg",
+   "alt": "Daniel, Hananias, Misael e Azarias não quiseram comer a comida do rei",
+   "fonte": "https://wol.jw.org/pt/wol/mp/r5/lp-t/lfb/2017/593",
+   "pagina": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016069"
+  }
+ }
+]

@@ -1,0 +1,48 @@
+{
+ "titulo": "Mais são os que estão conosco",
+ "chamada": "Um machado que flutua, um exército inteiro levado pelo caminho errado e uma cidade sitiada onde uma cabeça de jumento vale uma fortuna.",
+ "rei": "Jeorão (Israel) · Ben-Hadade II (Síria)",
+ "onde": "Jordão · Dotã · Samaria",
+ "capa": { "img": "img/wol/mwb22-2022-954.jpg", "alt": "Eliseu mostra o enorme exército de cavalos e carros de fogo em volta do exército da Síria para seu ajudante", "legenda": "Os que estão conosco são mais numerosos · Apostila Vida e Ministério 2022", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022402" },
+ "intro": "O rei da Síria tenta emboscar Israel várias vezes, mas Eliseu sempre avisa o rei de Israel onde os sírios estão. Desconfiado de traição, o rei sírio descobre que o “espião” é um profeta. E manda um exército para pegá-lo em Dotã.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1998443#h=6:0-10:0",
+ "achados": [
+  {
+   "v": 16, "tag": "A cena",
+   "titulo": "O susto do ajudante",
+   "texto": [
+    "De manhã cedo, o ajudante de Eliseu saiu, talvez para o terraço, e viu a cidade cercada de cavalos e carros. “Ai, meu senhor! Que faremos?”",
+    "Eliseu respondeu com calma: “Mais são os que estão conosco.” Orou, e Jeová abriu os olhos do ajudante: os montes estavam cheios de cavalos e carros de fogo. Hoje não temos visões, mas temos a Bíblia, que nos ajuda a ver com os olhos do entendimento."
+   ],
+   "img": "img/wol/it-1-2020-479.jpg", "alt": "Vista de Tel Dotã",
+   "legenda": "Tel Dotã, onde Eliseu e seu ajudante foram cercados · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1998443#h=6:0-10:0", "fonteNome": "A Sentinela 15/6/1998"
+  },
+  {
+   "v": 18, "tag": "Pergunta difícil",
+   "titulo": "Que tipo de cegueira?",
+   "texto": [
+    "Se o exército inteiro ficasse fisicamente cego, cada soldado teria de ser levado pela mão. Mas Eliseu só disse: “Este não é o caminho. Sigam-me.”",
+    "Tudo indica que foi uma cegueira mental: eles enxergavam, mas não entendiam o que viam. Eliseu os levou direto para dentro de Samaria."
+   ],
+   "img": "img/lfb/historia-52-2.jpg", "alt": "Soldados sírios comendo em Samaria",
+   "legenda": "O exército poderoso de Jeová · Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000773#h=7:0-8:0", "fonteNome": "Perspicaz · Cegueira"
+  },
+  {
+   "v": 25, "tag": "Em números",
+   "titulo": "Uma cabeça de jumento por 80 moedas",
+   "texto": [
+    "O jumento era impuro pela Lei e a cabeça é a parte com menos carne. No cerco, ela custava 80 peças de prata, o salário de uns 240 dias de trabalho.",
+    "Em tempos normais, esse valor compraria cerca de 1.760 litros de cevada. Dá para imaginar o desespero dentro da cidade."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003106#h=67:0-68:0", "fonteNome": "Perspicaz · Dinheiro"
+  }
+ ],
+ "pergunta": "Quando me sinto cercado por problemas, eu me lembro de que “mais são os que estão conosco”?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022402",
+ "mais": [
+  { "rotulo": "O exército poderoso de Jeová · Histórias da Bíblia", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016062" },
+  { "rotulo": "Eliseu viu carros de fogo — você consegue ver? · A Sentinela", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2013608" }
+ ]
+}

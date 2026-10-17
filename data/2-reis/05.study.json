@@ -1,0 +1,74 @@
+{
+ "titulo": "Sete mergulhos no Jordão",
+ "chamada": "Um general poderoso com lepra, uma menina escrava com coragem e um profeta que nem sai de casa para recebê-lo.",
+ "rei": "Jeorão (Israel) · Ben-Hadade II (Síria)",
+ "onde": "Damasco · Samaria · rio Jordão",
+ "capa": { "img": "img/lfb/historia-51.jpg", "alt": "Naamã visita Eliseu para ser curado", "legenda": "Naamã e a menininha israelita · Aprenda com as Histórias da Bíblia", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016061" },
+ "intro": "Naamã era o chefe do exército da Síria, um homem valente e respeitado, por meio de quem “Jeová dera salvação à Síria”. Talvez porque resistiu à Assíria, mantendo a Síria como uma barreira entre Israel e os assírios até o tempo de Jeová. Mas Naamã era leproso.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003149#h=4:0-6:0",
+ "achados": [
+  {
+   "v": 3, "tag": "Coragem",
+   "titulo": "A menina que falou",
+   "texto": [
+    "Ela tinha sido capturada numa incursão e virado escrava na casa de Naamã. Mesmo assim, falou com coragem à esposa dele: o profeta de Jeová em Samaria poderia curá-lo.",
+    "É um belo exemplo para os jovens que precisam de coragem para falar de Jeová na escola."
+   ],
+   "img": "img/my/1101978124-0.jpg", "alt": "A menina israelita fala com a esposa de Naamã sobre o profeta Eliseu",
+   "legenda": "Menina ajuda um poderoso · Meu Livro de Histórias Bíblicas",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2008122#h=19:0-20:0", "fonteNome": "A Sentinela 15/2/2008"
+  },
+  {
+   "v": 12, "tag": "Geografia",
+   "titulo": "O “rio Dourado” de Damasco",
+   "texto": [
+    "O Abana é identificado com o Barada, que nasce nos montes Antilíbano e cria um enorme oásis verde. Damasco praticamente deve sua existência a ele, e escritores antigos o chamavam de rio Dourado.",
+    "Ou seja, Naamã tinha motivo para se orgulhar dos rios de casa. O Jordão parecia pouca coisa. O problema era o orgulho, não a água."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000009#h=1:0-5:0", "fonteNome": "Perspicaz · Abana"
+  },
+  {
+   "v": 14, "tag": "Lição",
+   "titulo": "Quase voltou leproso",
+   "texto": [
+    "Com o orgulho ferido, Naamã já ia embora furioso. Se seus servos não tivessem argumentado com ele, teria voltado para casa ainda doente.",
+    "Ele mergulhou sete vezes, e sua pele ficou como a de um menino."
+   ],
+   "img": "img/lfb/historia-51-1.jpg", "alt": "Naamã mergulha no rio Jordão e fica curado",
+   "legenda": "Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003149#h=4:0-6:0", "fonteNome": "Perspicaz · Naamã"
+  },
+  {
+   "v": 17, "tag": "Por quê?",
+   "titulo": "Duas cargas de terra",
+   "texto": [
+    "Eliseu recusou o presente: a cura tinha sido obra de Jeová, e ele não ia lucrar com isso.",
+    "Naamã pediu então a carga de dois mulos de terra de Israel, para oferecer sacrifícios a Jeová sobre aquele solo, talvez num altar de terra. Daí em diante, não adoraria outro deus."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005562#h=13:0-14:0", "fonteNome": "A Sentinela 1/8/2005 · Destaques de 2 Reis"
+  },
+  {
+   "v": 18, "tag": "Pergunta difícil",
+   "titulo": "E o templo de Rimom?",
+   "texto": [
+    "O rei sírio, pelo visto idoso e fraco, se apoiava em Naamã, até para se curvar diante do deus Rimom. Quando o rei se curvava, Naamã tinha de se curvar junto.",
+    "Para Naamã, era só um gesto mecânico de apoio físico, um dever civil, não adoração. Eliseu acreditou na sinceridade dele: “Vá em paz.”"
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005562#h=14:0-15:0", "fonteNome": "A Sentinela 1/8/2005 · Destaques de 2 Reis"
+  },
+  {
+   "v": 23, "tag": "Em números",
+   "titulo": "68 kg de prata",
+   "texto": [
+    "Geazi mentiu e recebeu dois talentos de prata. Um talento pesava uns 34 kg. Cada bolsa, com um talento e uma muda de roupa, era o que um homem conseguia carregar, e por isso Naamã mandou dois servos levarem.",
+    "A ganância custou caro: a lepra de Naamã passou para Geazi."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000534#h=5:0-6:0", "fonteNome": "Perspicaz · Saca"
+  }
+ ],
+ "pergunta": "Será que o orgulho já me impediu de aceitar uma orientação simples de Jeová? Tenho coragem de falar dele como a menina israelita?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2008122#h=19:0-20:0",
+ "mais": [
+  { "rotulo": "Naamã e a menininha israelita · Histórias da Bíblia", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016061" }
+ ]
+}

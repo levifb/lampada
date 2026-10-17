@@ -1,0 +1,547 @@
+{
+ "1": [
+  {
+   "t": "Elias prediz a morte de Acazias",
+   "from": 1,
+   "to": 18
+  }
+ ],
+ "2": [
+  {
+   "t": "Elias é levado num vendaval",
+   "from": 1,
+   "to": 18
+  },
+  {
+   "t": "Eliseu pega o manto oficial de Elias",
+   "from": 13,
+   "to": 14
+  },
+  {
+   "t": "Eliseu faz a água de Jericó ficar boa",
+   "from": 19,
+   "to": 22
+  },
+  {
+   "t": "Ursas matam meninos de Betel",
+   "from": 23,
+   "to": 25
+  }
+ ],
+ "3": [
+  {
+   "t": "Jeorão, rei de Israel",
+   "from": 1,
+   "to": 3
+  },
+  {
+   "t": "Moabe se rebela contra Israel",
+   "from": 4,
+   "to": 25
+  },
+  {
+   "t": "Moabe é derrotada",
+   "from": 26,
+   "to": 27
+  }
+ ],
+ "4": [
+  {
+   "t": "Eliseu multiplica o azeite da viúva",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "Hospitalidade da mulher sunamita",
+   "from": 8,
+   "to": 16
+  },
+  {
+   "t": "A mulher é recompensada com um filho; o filho morre",
+   "from": 17,
+   "to": 31
+  },
+  {
+   "t": "Eliseu ressuscita o filho",
+   "from": 32,
+   "to": 37
+  },
+  {
+   "t": "Eliseu torna o cozido comestível",
+   "from": 38,
+   "to": 41
+  },
+  {
+   "t": "Eliseu multiplica pães",
+   "from": 42,
+   "to": 44
+  }
+ ],
+ "5": [
+  {
+   "t": "Eliseu cura a lepra de Naamã",
+   "from": 1,
+   "to": 19
+  },
+  {
+   "t": "O ganancioso Geazi é atacado de lepra",
+   "from": 20,
+   "to": 27
+  }
+ ],
+ "6": [
+  {
+   "t": "Eliseu faz flutuar o ferro de um machado",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "Eliseu e os sírios",
+   "from": 8,
+   "to": 23
+  },
+  {
+   "t": "Os olhos do ajudante de Eliseu são abertos",
+   "from": 16,
+   "to": 17
+  },
+  {
+   "t": "Os sírios são atingidos de cegueira mental",
+   "from": 18,
+   "to": 19
+  },
+  {
+   "t": "Fome durante o cerco de Samaria",
+   "from": 24,
+   "to": 33
+  }
+ ],
+ "7": [
+  {
+   "t": "Eliseu prediz o fim da fome",
+   "from": 1,
+   "to": 2
+  },
+  {
+   "t": "Alimento é encontrado no acampamento abandonado dos sírios",
+   "from": 3,
+   "to": 15
+  },
+  {
+   "t": "Cumpre-se a profecia de Eliseu",
+   "from": 16,
+   "to": 20
+  }
+ ],
+ "8": [
+  {
+   "t": "Mulher sunamita recupera sua terra",
+   "from": 1,
+   "to": 6
+  },
+  {
+   "t": "Eliseu, Ben-Hadade e Hazael",
+   "from": 7,
+   "to": 15
+  },
+  {
+   "t": "Jeorão, rei de Judá",
+   "from": 16,
+   "to": 24
+  },
+  {
+   "t": "Acazias, rei de Judá",
+   "from": 25,
+   "to": 29
+  }
+ ],
+ "9": [
+  {
+   "t": "Jeú é ungido como rei de Israel",
+   "from": 1,
+   "to": 13
+  },
+  {
+   "t": "Jeú mata Jeorão e Acazias",
+   "from": 14,
+   "to": 29
+  },
+  {
+   "t": "Jezabel é morta; cães comem sua carne",
+   "from": 30,
+   "to": 37
+  }
+ ],
+ "10": [
+  {
+   "t": "Jeú mata a casa de Acabe",
+   "from": 1,
+   "to": 17
+  },
+  {
+   "t": "Jonadabe se junta a Jeú",
+   "from": 15,
+   "to": 17
+  },
+  {
+   "t": "Jeú mata os adoradores de Baal",
+   "from": 18,
+   "to": 27
+  },
+  {
+   "t": "Resumo do reinado de Jeú",
+   "from": 28,
+   "to": 36
+  }
+ ],
+ "11": [
+  {
+   "t": "Atalia usurpa o trono",
+   "from": 1,
+   "to": 3
+  },
+  {
+   "t": "Jeoás é ungido rei secretamente",
+   "from": 4,
+   "to": 12
+  },
+  {
+   "t": "Atalia é morta",
+   "from": 13,
+   "to": 16
+  },
+  {
+   "t": "Reformas de Jeoiada",
+   "from": 17,
+   "to": 21
+  }
+ ],
+ "12": [
+  {
+   "t": "Jeoás, rei de Judá",
+   "from": 1,
+   "to": 3
+  },
+  {
+   "t": "Jeoás conserta o templo",
+   "from": 4,
+   "to": 16
+  },
+  {
+   "t": "Invasão dos sírios",
+   "from": 17,
+   "to": 18
+  },
+  {
+   "t": "Jeoás é morto",
+   "from": 19,
+   "to": 21
+  }
+ ],
+ "13": [
+  {
+   "t": "Jeoacaz, rei de Israel",
+   "from": 1,
+   "to": 9
+  },
+  {
+   "t": "Jeoás, rei de Israel",
+   "from": 10,
+   "to": 13
+  },
+  {
+   "t": "Eliseu testa o zelo de Jeoás",
+   "from": 14,
+   "to": 19
+  },
+  {
+   "t": "Morte de Eliseu; seus ossos ressuscitam um homem",
+   "from": 20,
+   "to": 21
+  },
+  {
+   "t": "Cumpre-se a última profecia de Eliseu",
+   "from": 22,
+   "to": 25
+  }
+ ],
+ "14": [
+  {
+   "t": "Amazias, rei de Judá",
+   "from": 1,
+   "to": 6
+  },
+  {
+   "t": "Guerra contra Edom e contra Israel",
+   "from": 7,
+   "to": 14
+  },
+  {
+   "t": "Morte de Jeoás, rei de Israel",
+   "from": 15,
+   "to": 16
+  },
+  {
+   "t": "Morte de Amazias",
+   "from": 17,
+   "to": 22
+  },
+  {
+   "t": "Jeroboão II, rei de Israel",
+   "from": 23,
+   "to": 29
+  }
+ ],
+ "15": [
+  {
+   "t": "Azarias, rei de Judá",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "Últimos reis de Israel: Zacarias (8-12), Salum (13-16), Menaém (17-22), Pecaías (23-26), e Peca",
+   "from": 27,
+   "to": 31
+  },
+  {
+   "t": "Jotão, rei de Judá",
+   "from": 32,
+   "to": 38
+  }
+ ],
+ "16": [
+  {
+   "t": "Acaz, rei de Judá",
+   "from": 1,
+   "to": 6
+  },
+  {
+   "t": "Acaz suborna os assírios",
+   "from": 7,
+   "to": 9
+  },
+  {
+   "t": "Acaz copia altar pagão",
+   "from": 10,
+   "to": 18
+  },
+  {
+   "t": "Morte de Acaz",
+   "from": 19,
+   "to": 20
+  }
+ ],
+ "17": [
+  {
+   "t": "Oseias, rei de Israel",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "t": "Queda de Israel",
+   "from": 5,
+   "to": 6
+  },
+  {
+   "t": "Israel é levado ao exílio por causa de apostasia",
+   "from": 7,
+   "to": 23
+  },
+  {
+   "t": "Estrangeiros são trazidos para as cidades samaritanas",
+   "from": 24,
+   "to": 26
+  },
+  {
+   "t": "Religião mista dos samaritanos",
+   "from": 27,
+   "to": 41
+  }
+ ],
+ "18": [
+  {
+   "t": "Ezequias, rei de Judá",
+   "from": 1,
+   "to": 8
+  },
+  {
+   "t": "Recapitulação da queda de Israel",
+   "from": 9,
+   "to": 12
+  },
+  {
+   "t": "Senaqueribe invade Judá",
+   "from": 13,
+   "to": 18
+  },
+  {
+   "t": "O Rabsaqué desafia Jeová",
+   "from": 19,
+   "to": 37
+  }
+ ],
+ "19": [
+  {
+   "t": "Ezequias busca a ajuda de Deus por meio de Isaías",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "Senaqueribe ameaça Jerusalém",
+   "from": 8,
+   "to": 13
+  },
+  {
+   "t": "Oração de Ezequias",
+   "from": 14,
+   "to": 19
+  },
+  {
+   "t": "Isaías transmite a resposta de Deus",
+   "from": 20,
+   "to": 34
+  },
+  {
+   "t": "Anjo mata 185.000 assírios",
+   "from": 35,
+   "to": 37
+  }
+ ],
+ "20": [
+  {
+   "t": "Doença e recuperação de Ezequias",
+   "from": 1,
+   "to": 11
+  },
+  {
+   "t": "Representantes de Babilônia",
+   "from": 12,
+   "to": 19
+  },
+  {
+   "t": "Morte de Ezequias",
+   "from": 20,
+   "to": 21
+  }
+ ],
+ "21": [
+  {
+   "t": "Manassés, rei de Judá; seus pecados",
+   "from": 1,
+   "to": 18
+  },
+  {
+   "t": "Jerusalém será destruída",
+   "from": 12,
+   "to": 15
+  },
+  {
+   "t": "Amom, rei de Judá",
+   "from": 19,
+   "to": 26
+  }
+ ],
+ "22": [
+  {
+   "t": "Josias, rei de Judá",
+   "from": 1,
+   "to": 2
+  },
+  {
+   "t": "Instruções para o conserto do templo",
+   "from": 3,
+   "to": 7
+  },
+  {
+   "t": "O livro da Lei é encontrado",
+   "from": 8,
+   "to": 13
+  },
+  {
+   "t": "Hulda profetiza calamidade",
+   "from": 14,
+   "to": 20
+  }
+ ],
+ "23": [
+  {
+   "t": "Reformas de Josias",
+   "from": 1,
+   "to": 20
+  },
+  {
+   "t": "Celebração da Páscoa",
+   "from": 21,
+   "to": 23
+  },
+  {
+   "t": "Reformas adicionais de Josias",
+   "from": 24,
+   "to": 27
+  },
+  {
+   "t": "Morte de Josias",
+   "from": 28,
+   "to": 30
+  },
+  {
+   "t": "Jeoacaz, rei de Judá",
+   "from": 31,
+   "to": 33
+  },
+  {
+   "t": "Jeoiaquim, rei de Judá",
+   "from": 34,
+   "to": 37
+  }
+ ],
+ "24": [
+  {
+   "t": "Rebelião e morte de Jeoiaquim",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "Joaquim, rei de Judá",
+   "from": 8,
+   "to": 9
+  },
+  {
+   "t": "Primeira deportação para Babilônia",
+   "from": 10,
+   "to": 17
+  },
+  {
+   "t": "Zedequias, rei de Judá; ele se rebela",
+   "from": 18,
+   "to": 20
+  }
+ ],
+ "25": [
+  {
+   "t": "Nabucodonosor cerca Jerusalém",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "Jerusalém e o templo são destruídos; segunda deportação",
+   "from": 8,
+   "to": 21
+  },
+  {
+   "t": "Gedalias é designado governador",
+   "from": 22,
+   "to": 24
+  },
+  {
+   "t": "Gedalias é assassinado; povo foge para o Egito",
+   "from": 25,
+   "to": 26
+  },
+  {
+   "t": "Joaquim é libertado em Babilônia",
+   "from": 27,
+   "to": 30
+  }
+ ]
+}

@@ -1,0 +1,501 @@
+{
+ "1": [
+  {
+   "t": "Davi e Abisague",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "t": "Adonias procura obter o trono",
+   "from": 5,
+   "to": 10
+  },
+  {
+   "t": "Natã e Bate-Seba agem",
+   "from": 11,
+   "to": 27
+  },
+  {
+   "t": "Davi ordena a unção de Salomão",
+   "from": 28,
+   "to": 40
+  },
+  {
+   "t": "Adonias foge para o altar",
+   "from": 41,
+   "to": 53
+  }
+ ],
+ "2": [
+  {
+   "t": "Davi instrui Salomão",
+   "from": 1,
+   "to": 9
+  },
+  {
+   "t": "Davi morre; Salomão assume o trono",
+   "from": 10,
+   "to": 12
+  },
+  {
+   "t": "Trama de Adonias resulta na sua morte",
+   "from": 13,
+   "to": 25
+  },
+  {
+   "t": "Abiatar é banido; Joabe é morto",
+   "from": 26,
+   "to": 35
+  },
+  {
+   "t": "Simei é morto",
+   "from": 36,
+   "to": 46
+  }
+ ],
+ "3": [
+  {
+   "t": "Salomão se casa com a filha de Faraó",
+   "from": 1,
+   "to": 3
+  },
+  {
+   "t": "Jeová aparece a Salomão num sonho",
+   "from": 4,
+   "to": 15
+  },
+  {
+   "t": "Salomão pede sabedoria",
+   "from": 7,
+   "to": 9
+  },
+  {
+   "t": "Salomão julga o caso de duas mães",
+   "from": 16,
+   "to": 28
+  }
+ ],
+ "4": [
+  {
+   "t": "Administração de Salomão",
+   "from": 1,
+   "to": 19
+  },
+  {
+   "t": "Prosperidade sob o reinado de Salomão",
+   "from": 20,
+   "to": 28
+  },
+  {
+   "t": "Segurança debaixo da videira e da figueira",
+   "from": 25,
+   "to": 25
+  },
+  {
+   "t": "Sabedoria e provérbios de Salomão",
+   "from": 29,
+   "to": 34
+  }
+ ],
+ "5": [
+  {
+   "t": "Rei Hirão fornece materiais de construção",
+   "from": 1,
+   "to": 12
+  },
+  {
+   "t": "Trabalhadores convocados por Salomão",
+   "from": 13,
+   "to": 18
+  }
+ ],
+ "6": [
+  {
+   "t": "Salomão constrói o templo",
+   "from": 1,
+   "to": 38
+  },
+  {
+   "t": "Compartimento interno",
+   "from": 19,
+   "to": 22
+  },
+  {
+   "t": "Querubins",
+   "from": 23,
+   "to": 28
+  },
+  {
+   "t": "Entalhes, portas e pátio interno",
+   "from": 29,
+   "to": 36
+  },
+  {
+   "t": "O templo é terminado em cerca de sete anos",
+   "from": 37,
+   "to": 38
+  }
+ ],
+ "7": [
+  {
+   "t": "Complexo do palácio de Salomão",
+   "from": 1,
+   "to": 12
+  },
+  {
+   "t": "Hirão, homem habilidoso, auxilia Salomão",
+   "from": 13,
+   "to": 47
+  },
+  {
+   "t": "As duas colunas de cobre",
+   "from": 15,
+   "to": 22
+  },
+  {
+   "t": "O Mar feito de metal fundido",
+   "from": 23,
+   "to": 26
+  },
+  {
+   "t": "Os dez carrinhos e bacias de cobre",
+   "from": 27,
+   "to": 39
+  },
+  {
+   "t": "Móveis e utensílios de ouro",
+   "from": 48,
+   "to": 51
+  }
+ ],
+ "8": [
+  {
+   "t": "A Arca é levada para o templo",
+   "from": 1,
+   "to": 13
+  },
+  {
+   "t": "Salomão fala ao povo",
+   "from": 14,
+   "to": 21
+  },
+  {
+   "t": "Oração de dedicação feita por Salomão",
+   "from": 22,
+   "to": 53
+  },
+  {
+   "t": "Salomão abençoa o povo",
+   "from": 54,
+   "to": 61
+  },
+  {
+   "t": "Sacrifícios e festividade da dedicação",
+   "from": 62,
+   "to": 66
+  }
+ ],
+ "9": [
+  {
+   "t": "Jeová aparece novamente a Salomão",
+   "from": 1,
+   "to": 9
+  },
+  {
+   "t": "Presente de Salomão ao rei Hirão",
+   "from": 10,
+   "to": 14
+  },
+  {
+   "t": "Construções de Salomão",
+   "from": 15,
+   "to": 28
+  }
+ ],
+ "10": [
+  {
+   "t": "Rainha de Sabá visita Salomão",
+   "from": 1,
+   "to": 13
+  },
+  {
+   "t": "Grande riqueza de Salomão",
+   "from": 14,
+   "to": 29
+  }
+ ],
+ "11": [
+  {
+   "t": "Esposas de Salomão desviam seu coração",
+   "from": 1,
+   "to": 13
+  },
+  {
+   "t": "Opositores contra Salomão",
+   "from": 14,
+   "to": 25
+  },
+  {
+   "t": "Jeroboão receberá dez tribos",
+   "from": 26,
+   "to": 40
+  },
+  {
+   "t": "Salomão morre; Roboão torna-se rei",
+   "from": 41,
+   "to": 43
+  }
+ ],
+ "12": [
+  {
+   "t": "Resposta dura de Roboão",
+   "from": 1,
+   "to": 15
+  },
+  {
+   "t": "Revolta das dez tribos",
+   "from": 16,
+   "to": 19
+  },
+  {
+   "t": "Jeroboão torna-se rei de Israel",
+   "from": 20,
+   "to": 20
+  },
+  {
+   "t": "Roboão não deve guerrear contra Israel",
+   "from": 21,
+   "to": 24
+  },
+  {
+   "t": "Jeroboão faz bezerros para adoração",
+   "from": 25,
+   "to": 33
+  }
+ ],
+ "13": [
+  {
+   "t": "Profecia contra o altar em Betel",
+   "from": 1,
+   "to": 10
+  },
+  {
+   "t": "Altar racha",
+   "from": 5,
+   "to": 5
+  },
+  {
+   "t": "O homem de Deus desobedece",
+   "from": 11,
+   "to": 34
+  }
+ ],
+ "14": [
+  {
+   "t": "Profecia de Aías contra Jeroboão",
+   "from": 1,
+   "to": 20
+  },
+  {
+   "t": "Roboão reina em Judá",
+   "from": 21,
+   "to": 31
+  },
+  {
+   "t": "Invasão de Sisaque",
+   "from": 25,
+   "to": 26
+  }
+ ],
+ "15": [
+  {
+   "t": "Abião, rei de Judá",
+   "from": 1,
+   "to": 8
+  },
+  {
+   "t": "Asa, rei de Judá",
+   "from": 9,
+   "to": 24
+  },
+  {
+   "t": "Nadabe, rei de Israel",
+   "from": 25,
+   "to": 32
+  },
+  {
+   "t": "Baasa, rei de Israel",
+   "from": 33,
+   "to": 34
+  }
+ ],
+ "16": [
+  {
+   "t": "Julgamento de Jeová contra Baasa",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "Elá, rei de Israel",
+   "from": 8,
+   "to": 14
+  },
+  {
+   "t": "Zinri, rei de Israel",
+   "from": 15,
+   "to": 20
+  },
+  {
+   "t": "Onri, rei de Israel",
+   "from": 21,
+   "to": 28
+  },
+  {
+   "t": "Acabe, rei de Israel",
+   "from": 29,
+   "to": 33
+  },
+  {
+   "t": "Hiel reconstrói Jericó",
+   "from": 34,
+   "to": 34
+  }
+ ],
+ "17": [
+  {
+   "t": "O profeta Elias prediz uma seca",
+   "from": 1,
+   "to": 1
+  },
+  {
+   "t": "Elias é alimentado por corvos",
+   "from": 2,
+   "to": 7
+  },
+  {
+   "t": "Elias visita uma viúva em Sarefá",
+   "from": 8,
+   "to": 16
+  },
+  {
+   "t": "O filho da viúva morre e é ressuscitado",
+   "from": 17,
+   "to": 24
+  }
+ ],
+ "18": [
+  {
+   "t": "Elias se encontra com Obadias e Acabe",
+   "from": 1,
+   "to": 18
+  },
+  {
+   "t": "Elias e os profetas de Baal no Carmelo",
+   "from": 19,
+   "to": 40
+  },
+  {
+   "t": "“Indecisos entre duas opiniões”",
+   "from": 21,
+   "to": 21
+  },
+  {
+   "t": "Fim da seca de três anos e meio",
+   "from": 41,
+   "to": 46
+  }
+ ],
+ "19": [
+  {
+   "t": "Elias foge da ira de Jezabel",
+   "from": 1,
+   "to": 8
+  },
+  {
+   "t": "Jeová aparece a Elias em Horebe",
+   "from": 9,
+   "to": 14
+  },
+  {
+   "t": "Elias deve ungir Hazael, Jeú e Eliseu",
+   "from": 15,
+   "to": 18
+  },
+  {
+   "t": "Eliseu é designado sucessor de Elias",
+   "from": 19,
+   "to": 21
+  }
+ ],
+ "20": [
+  {
+   "t": "Sírios guerreiam contra Acabe",
+   "from": 1,
+   "to": 12
+  },
+  {
+   "t": "Acabe derrota os sírios",
+   "from": 13,
+   "to": 34
+  },
+  {
+   "t": "Profecia contra Acabe",
+   "from": 35,
+   "to": 43
+  }
+ ],
+ "21": [
+  {
+   "t": "Acabe cobiça o vinhedo de Nabote",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "t": "Jezabel faz com que Nabote seja morto",
+   "from": 5,
+   "to": 16
+  },
+  {
+   "t": "Mensagem de Elias contra Acabe",
+   "from": 17,
+   "to": 26
+  },
+  {
+   "t": "Acabe se humilha",
+   "from": 27,
+   "to": 29
+  }
+ ],
+ "22": [
+  {
+   "t": "Jeosafá se alia a Acabe",
+   "from": 1,
+   "to": 12
+  },
+  {
+   "t": "Micaías profetiza a derrota",
+   "from": 13,
+   "to": 28
+  },
+  {
+   "t": "Um espírito engana Acabe",
+   "from": 21,
+   "to": 22
+  },
+  {
+   "t": "Acabe é morto em Ramote-Gileade",
+   "from": 29,
+   "to": 40
+  },
+  {
+   "t": "Reinado de Jeosafá sobre Judá",
+   "from": 41,
+   "to": 50
+  },
+  {
+   "t": "Acazias, rei de Israel",
+   "from": 51,
+   "to": 53
+  }
+ ]
+}

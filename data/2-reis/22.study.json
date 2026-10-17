@@ -1,0 +1,76 @@
+{
+ "titulo": "O livro encontrado",
+ "chamada": "Reformando o templo, o sumo sacerdote encontra um rolo antigo, talvez escrito pelo próprio Moisés. O jovem rei ouve a leitura e rasga a roupa.",
+ "rei": "Josias (Judá)",
+ "quando": "c. 642 a.C.",
+ "onde": "Jerusalém",
+ "capa": {
+  "img": "img/wol/mwb23-2023-21.jpg",
+  "alt": "O rei Josias escuta humildemente seu secretário, Safã, ler um rolo",
+  "legenda": "Por que é importante ser humilde? · Apostila Vida e Ministério 2023",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202023002"
+ },
+ "intro": "Josias se tornou rei com oito anos, depois que o pai, Amom, foi assassinado. Desde jovem buscou a Jeová, como Davi. Aos 26 anos, enquanto o templo era consertado, algo inesperado aconteceu.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002525#h=6:0-7:0",
+ "achados": [
+  {
+   "v": 8,
+   "tag": "Um achado sensacional",
+   "titulo": "O original de Moisés?",
+   "texto": [
+    "Hilquias encontrou “o livro da lei de Jeová pela mão de Moisés”, muito provavelmente o próprio manuscrito original.",
+    "Grande parte do conteúdo era desconhecida do rei, e a leitura provocou um grande reavivamento espiritual. Depois disso, não se sabe o que aconteceu com esse documento."
+   ],
+   "img": "img/lfb/historia-56-1.jpg",
+   "alt": "Hilquias encontra o rolo com as leis de Jeová",
+   "legenda": "Josias amava aprender sobre Jeová · Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002026#h=6:0-7:0",
+   "fonteNome": "Perspicaz · Hilquias"
+  },
+  {
+   "v": 11,
+   "tag": "Para o coração",
+   "titulo": "Um coração que amoleceu",
+   "texto": [
+    "Ao ouvir a Lei e perceber o quanto os antepassados tinham se afastado, Josias rasgou as roupas e chorou diante de Jeová.",
+    "O texto diz que o coração dele “se amoleceu”. A humildade nos deixa prontos para aceitar correção, e Jeová notou isso."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2000166#h=13:0-15:0",
+   "fonteNome": "A Sentinela 1/3/2000"
+  },
+  {
+   "v": 14,
+   "tag": "Quem é quem",
+   "titulo": "A profetisa Hulda",
+   "texto": [
+    "A delegação do rei foi consultar a profetisa Hulda, que morava no “segundo bairro” de Jerusalém.",
+    "Ela confirmou: viria calamidade sobre a nação. Mas Josias, por ter se humilhado, não a veria."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002101#h=4:0-6:0",
+   "fonteNome": "Perspicaz · Hulda"
+  },
+  {
+   "v": 20,
+   "tag": "A Bíblia se contradiz?",
+   "titulo": "“Em paz”, mas morto em batalha?",
+   "texto": [
+    "Josias morreu na batalha de Megido (23:29). Então Hulda errou?",
+    "Não. A “paz” contrasta com a calamidade que viria sobre Judá: Josias morreu antes de 609–607 a.C., quando Babilônia cercou e destruiu Jerusalém. E “ser ajuntado aos antepassados” é usado tanto para morte tranquila como para morte em guerra."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2000687#h=13:0-15:0",
+   "fonteNome": "A Sentinela 15/9/2000"
+  }
+ ],
+ "pergunta": "Quando leio algo na Bíblia que mostra que preciso mudar, reajo como Josias?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202023002",
+ "mais": [
+  {
+   "rotulo": "Josias amava aprender sobre Jeová · Histórias da Bíblia",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016066"
+  },
+  {
+   "rotulo": "Josias era humilde e tinha o favor de Jeová · A Sentinela",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2000687"
+  }
+ ]
+}

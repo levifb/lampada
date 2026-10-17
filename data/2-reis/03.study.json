@@ -1,0 +1,49 @@
+{
+ "titulo": "Água vermelha como sangue",
+ "chamada": "Três exércitos perdidos no deserto sem água. Eliseu manda cavar valas e, de manhã, os moabitas veem um vale que parece banhado de sangue.",
+ "rei": "Jeorão (Israel) · Jeosafá (Judá)",
+ "onde": "Deserto de Edom · Moabe · Quir-Haresete",
+ "capa": { "img": "img/wol/it-1-2020-452.jpg", "alt": "Os moabitas viviam num território acidentado ao leste do Mar Morto", "legenda": "O território de Moabe · Perspicaz", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001696" },
+ "intro": "Mesa, rei de Moabe, pagava um tributo pesado a Israel. Quando Acabe morreu, ele se revoltou. Jeorão, filho de Acabe, chama Jeosafá de Judá e o rei de Edom para atacar Moabe pelo sul. Depois de sete dias de marcha, acaba a água.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003006#h=4:0-5:0",
+ "achados": [
+  {
+   "v": 4, "tag": "Em números",
+   "titulo": "200 mil animais de tributo",
+   "texto": [
+    "Mesa era criador de ovelhas e pagava ao rei de Israel 100 mil cordeiros e 100 mil carneiros “não tosquiados”.",
+    "O detalhe importa: a lã era uma mercadoria valiosa, e carneiros com toda a lã valiam mais."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1992167#h=7:0-8:0", "fonteNome": "A Sentinela 1/3/1992"
+  },
+  {
+   "v": 19, "tag": "Por quê?",
+   "titulo": "Derrubar as árvores boas?",
+   "texto": [
+    "A Lei mandava não destruir árvores frutíferas ao atacar cidades. Por que aqui foi diferente?",
+    "Parece que porque Moabe ficava fora da Terra Prometida, e era uma guerra punitiva para impedir novas revoltas."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200004472#h=7:0-8:0", "fonteNome": "Perspicaz · Árvores"
+  },
+  {
+   "v": 22, "tag": "A cena",
+   "titulo": "Uma ilusão de ótica",
+   "texto": [
+    "O sol da manhã refletindo na água, talvez por causa da argila vermelha das valas recém-cavadas, fez a água parecer sangue.",
+    "Os moabitas sabiam do ciúme entre Israel e Judá e da antipatia de Edom por Judá. Acharam que os aliados tinham se matado, correram para saquear o acampamento e foram postos em fuga. Às vezes Jeová usa um fenômeno natural para cumprir seu propósito."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003006#h=4:0-5:0", "fonteNome": "Perspicaz · Mesa"
+  },
+  {
+   "v": 27, "tag": "Arqueologia",
+   "titulo": "O que a Pedra Moabita não conta",
+   "texto": [
+    "Diante da derrota, Mesa sacrificou o próprio filho ao deus Quemós, uma prática conhecida da religião moabita.",
+    "Na Pedra Moabita, encontrada em 1868, Mesa se gaba da revolta, de suas obras e de ter arrastado objetos de Jeová diante de Quemós. O nome de Deus, o Tetragrama, aparece na linha 18. Mas a derrota e o sacrifício do filho, como era de esperar, ficaram de fora."
+   ],
+   "img": "img/wol/it-1-2020-453.jpg", "alt": "A Pedra Moabita",
+   "legenda": "A Pedra Moabita, em que o rei Mesa se gaba de seu deus Quemós · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003006#h=7:0-9:0", "fonteNome": "Perspicaz · Mesa"
+  }
+ ]
+}

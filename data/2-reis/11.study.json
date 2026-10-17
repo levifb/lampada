@@ -1,0 +1,72 @@
+{
+ "titulo": "O menino escondido no templo",
+ "chamada": "Uma avó mata os próprios netos para ser rainha. Um bebê sobrevive escondido por seis anos. No sétimo, o sumo sacerdote arma uma coroação surpresa.",
+ "rei": "Rainha Atalia · Jeoás (Judá)",
+ "quando": "905–898 a.C.",
+ "onde": "Jerusalém · templo",
+ "capa": {
+  "img": "img/lfb/historia-53.jpg",
+  "alt": "Sumo sacerdote Jeoiada apresenta o rei Jeoás para o povo",
+  "legenda": "Jeoiada foi corajoso · Aprenda com as Histórias da Bíblia",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016063"
+ },
+ "intro": "Quando Atalia, filha de Acabe e Jezabel, soube que o filho Acazias tinha morrido, mandou matar toda a descendência real para governar Judá sozinha. A linhagem de Davi, de onde viria o Messias, ficou por um fio.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022410",
+ "achados": [
+  {
+   "v": 2,
+   "tag": "A cena",
+   "titulo": "Jeoseba, a tia corajosa",
+   "texto": [
+    "Jeoseba, irmã do rei morto e esposa do sumo sacerdote Jeoiada, pegou o bebê Jeoás e o escondeu com a ama.",
+    "Ele cresceu escondido na casa de Jeová por seis anos, enquanto Atalia reinava."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022410",
+   "fonteNome": "Apostila Vida e Ministério 2022"
+  },
+  {
+   "v": 4,
+   "tag": "Quem é quem",
+   "titulo": "A escolta cariana",
+   "texto": [
+    "Muitos peritos acham que é outro nome para os queretitas, a guarda especial dos reis Davi e Salomão.",
+    "Alguns acreditam que vieram originalmente da Cária, na Ásia Menor, passando por Creta."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000890#h=1:0-5:0",
+   "fonteNome": "Perspicaz · Escolta Cariana"
+  },
+  {
+   "v": 12,
+   "tag": "Detalhe do texto",
+   "titulo": "O diadema e o Testemunho",
+   "texto": [
+    "Jeoiada pôs sobre o menino o diadema e “o Testemunho”, palavra que geralmente se refere à Lei de Deus. Algumas traduções trocaram por “braçadeiras”, por não imaginarem a Lei sobre a cabeça do rei. Mas isso é especulação.",
+    "Estudiosos explicam que a Lei era colocada simbolicamente sobre a cabeça do rei, depois do diadema: o rei devia governar debaixo da Lei de Jeová."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1991089#h=1:0-8:0",
+   "fonteNome": "A Sentinela 1/2/1991"
+  },
+  {
+   "v": 16,
+   "tag": "O fim",
+   "titulo": "A última da casa de Acabe",
+   "texto": [
+    "Atalia gritou “Conspiração!”, mas foi levada para fora do templo e morta. Ela provavelmente era a última pessoa da casa de Acabe.",
+    "A promessa de Jeová a Davi continuou de pé."
+   ],
+   "img": "img/lfb/historia-53-1.jpg",
+   "alt": "Rainha Atalia gritando",
+   "legenda": "Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022410",
+   "fonteNome": "Apostila Vida e Ministério 2022"
+  }
+ ],
+ "pergunta": "Como esse relato confirma que “o mau não ficará sem punição” (Provérbios 11:21; Eclesiastes 8:12, 13)?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022410",
+ "mais": [
+  {
+   "rotulo": "Jeoiada foi corajoso · Aprenda com as Histórias da Bíblia",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016063"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "titulo": "Escorpiões e bezerros de ouro",
+ "chamada": "Um novo rei ignora os conselhos dos mais velhos e perde dez tribos num dia. O outro inventa uma religião para não perder o povo.",
+ "rei": "Roboão (Judá) · Jeroboão (Israel)",
+ "quando": "997 a.C.",
+ "onde": "Siquém · Betel · Dã",
+ "capa": { "img": "img/lfb/historia-45-1.jpg", "alt": "Muitos israelitas oferecem sacrifícios para o bezerro de ouro feito por Jeroboão", "legenda": "A divisão do reino · Aprenda com as Histórias da Bíblia", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016055" },
+ "intro": "Salomão morreu e seu filho Roboão vai a Siquém para ser feito rei. O povo pede uma única coisa: que a carga pesada dos anos de Salomão seja aliviada. A resposta de Roboão vai dividir a nação, como Jeová tinha predito.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001697#h=2:0-5:0",
+ "achados": [
+  {
+   "v": 5, "tag": "Detalhe do texto",
+   "titulo": "Três dias que não eram três dias",
+   "texto": [
+    "Roboão mandou o povo voltar “daqui a três dias”, mas eles voltaram “no terceiro dia”.",
+    "Isso mostra que os hebreus às vezes contavam partes de dias como dias inteiros. O mesmo jeito de contar ajuda a entender outros textos, como os “três dias” de Jesus no túmulo."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001132#h=13:0-14:0", "fonteNome": "Perspicaz · Dia"
+  },
+  {
+   "v": 11, "tag": "Palavra-chave",
+   "titulo": "Chicotes de “escorpiões”",
+   "texto": [
+    "A palavra hebraica traduzida por “chicotes farpados” significa literalmente “escorpiões”. Talvez fosse um chicote com nós ou com pontas farpadas, parecidas com o ferrão do escorpião.",
+    "Junto com a frase do dedo mínimo “mais grosso que os quadris do meu pai”, era uma forma de dizer: “Vou ser muito mais duro que Salomão.”"
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003857#h=7:0-8:0", "fonteNome": "Perspicaz · Escorpião"
+  },
+  {
+   "v": 24, "tag": "Lição",
+   "titulo": "A obediência que custou o orgulho",
+   "texto": [
+    "Roboão juntou um exército para esmagar a rebelião, mas Jeová disse: “Não vão à guerra contra os seus irmãos.” Imagine como isso deve ter mexido com o orgulho dele, depois de ameaçar o povo com chicotes.",
+    "Mesmo assim, ele obedeceu. E Jeová o abençoou: Roboão fortaleceu as cidades de Judá e Benjamim, e muitos que rejeitavam a idolatria do norte foram para o lado dele."
+   ],
+   "img": "img/wol/w18-2018-566.jpg", "alt": "Por causa da mãe e dos conselheiros, o rei Roboão se envolveu com adoração falsa",
+   "legenda": "Ele poderia ter sido amigo de Deus · A Sentinela 6/2018",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2018443#h=8:0-13:0", "fonteNome": "A Sentinela (Estudo) 6/2018"
+  },
+  {
+   "v": 28, "tag": "Contexto religioso",
+   "titulo": "Por que um bezerro?",
+   "texto": [
+    "O touro era adorado por babilônios, cananeus, egípcios e outros como símbolo de seus deuses, como Marduque, Moloque e Baal. Também estava ligado à adoração das estrelas.",
+    "Jeroboão repetiu o pecado de Arão no deserto. Mesmo usando o nome de Deus, era adoração falsa."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000448#h=12:0-14:0", "fonteNome": "Perspicaz · Astrólogos"
+  },
+  {
+   "v": 32, "tag": "Calendário",
+   "titulo": "Uma festa copiada, um mês atrasada",
+   "texto": [
+    "A Festividade das Barracas era no sétimo mês. Jeroboão criou uma imitação dela no oitavo mês, bul, o mesmo mês em que o templo de Jerusalém tinha ficado pronto.",
+    "O objetivo era manter as tribos do norte longe de Jerusalém. Os sacrifícios eram oferecidos aos bezerros de ouro."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001505#h=12:0-13:0", "fonteNome": "Perspicaz · Festividade das Barracas"
+  }
+ ],
+ "mais": [
+  { "rotulo": "Ele poderia ter sido amigo de Deus · A Sentinela 6/2018", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2018443" },
+  { "rotulo": "A divisão do reino · Meu Livro de Histórias Bíblicas", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101978120" }
+ ]
+}

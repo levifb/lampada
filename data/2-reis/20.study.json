@@ -1,0 +1,64 @@
+{
+ "titulo": "A sombra que voltou",
+ "chamada": "Isaías diz a Ezequias que ele vai morrer. Ezequias vira o rosto para a parede e chora. Ganha 15 anos, um sinal no céu e uma visita perigosa.",
+ "rei": "Ezequias (Judá)",
+ "quando": "c. 732 a.C.",
+ "onde": "Jerusalém",
+ "capa": {
+  "img": "img/wol/mwb22-2022-1094.jpg",
+  "alt": "O rei Ezequias, doente e em sua cama, suplicando a Jeová",
+  "legenda": "Uma oração que motivou Jeová a agir · Apostila Vida e Ministério 2022",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022422"
+ },
+ "intro": "Ezequias fica gravemente doente, e Isaías traz uma mensagem dura: ponha a casa em ordem, porque você vai morrer. Ezequias implora a Jeová que se lembre de como ele andou com fidelidade. Antes de Isaías sair do pátio, a resposta muda.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022422",
+ "achados": [
+  {
+   "v": 11,
+   "tag": "O sinal",
+   "titulo": "Os degraus de Acaz",
+   "texto": [
+    "Os hebreus, antes do exílio, não dividiam o dia em horas. A “sombra nos degraus” talvez fosse um tipo de relógio de sol em que a sombra descia uma série de degraus.",
+    "Como sinal, Jeová fez a sombra voltar dez degraus."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001132#h=10:0-11:0",
+   "fonteNome": "Perspicaz · Dia"
+  },
+  {
+   "v": 13,
+   "tag": "O que deu errado",
+   "titulo": "Mostrou tudo aos babilônios",
+   "texto": [
+    "Merodaque-Baladã, que tinha tomado Babilônia, mandou cartas e presentes. Talvez quisesse Judá numa aliança contra a Assíria.",
+    "Ezequias mostrou todo o tesouro e o arsenal, talvez para impressionar um possível aliado. Isaías condenou isso e predisse que tudo seria levado para Babilônia. Ezequias tinha ficado orgulhoso, mas depois se humilhou (2 Crônicas 32:25, 26)."
+   ],
+   "img": "img/wol/it-2-2020-159.jpg",
+   "alt": "Merodaque-Baladã entregando uma concessão de terras a um oficial",
+   "legenda": "Merodaque-Baladã · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002011#h=21:0-22:0",
+   "fonteNome": "Perspicaz · Ezequias"
+  },
+  {
+   "v": 20,
+   "tag": "Arqueologia",
+   "titulo": "O túnel de Ezequias",
+   "texto": [
+    "Um túnel de 533 metros, cavado na rocha, levava água da fonte de Giom ao reservatório de Siloé, dentro da cidade. A diferença de altura entre as pontas é de apenas 32 cm. Dentro dele foi achada uma inscrição em hebraico antigo sobre a escavação.",
+    "Em 2003, testes de carbono 14 e de urânio-tório confirmaram: o túnel é da época de Ezequias, por volta de 700 a.C. A revista Nature o chamou de estrutura bíblica da Idade do Ferro com a data mais precisa até agora."
+   ],
+   "img": "img/wol/it-1-2020-436.jpg",
+   "alt": "O reservatório de água de Siloé, alimentado pelas águas da fonte de Giom",
+   "legenda": "O reservatório de Siloé · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2009333#h=5:0-9:0",
+   "fonteNome": "A Sentinela 1/5/2009 · Você Sabia?"
+  }
+ ],
+ "pergunta": "As orações sinceras de Ezequias motivaram Jeová a agir. Como estão as minhas orações?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022422",
+ "mais": [
+  {
+   "rotulo": "Ezequias — também escreveu e copiou provérbios · Perspicaz",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002011"
+  }
+ ]
+}

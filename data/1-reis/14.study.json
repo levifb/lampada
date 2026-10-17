@@ -1,0 +1,55 @@
+{
+ "titulo": "Algo de bom",
+ "chamada": "Numa família inteira condenada, Jeová encontra algo de bom num único menino. Enquanto isso, o faraó leva embora os escudos de ouro de Salomão.",
+ "rei": "Jeroboão (Israel) · Roboão (Judá)",
+ "quando": "993 a.C. · invasão de Sisaque",
+ "onde": "Siló · Tirza · Jerusalém",
+ "capa": { "img": "img/wol/w18-2018-564.jpg", "alt": "Rei Roboão", "legenda": "Ele poderia ter sido amigo de Deus · A Sentinela 6/2018", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2018443" },
+ "intro": "O filho de Jeroboão está doente. O rei manda a esposa, disfarçada, consultar o profeta Aías, já idoso e cego. Mas não dá para disfarçar nada diante de Jeová. No sul, Roboão também falha, e o Egito invade Judá.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2008601#h=12:0-17:0",
+ "achados": [
+  {
+   "v": 13, "tag": "Para o coração",
+   "titulo": "O que havia de bom em Abias?",
+   "texto": [
+    "A Bíblia não diz exatamente. Escritores rabínicos sugerem que ele fez uma peregrinação ao templo, ou tirou os guardas que o pai tinha colocado para impedir o povo de ir a Jerusalém.",
+    "Seja o que for, era genuíno e raro: ele mostrou isso numa família ruim. Um erudito comparou essa qualidade a uma estrela que brilha mais num céu escuro. E Jeová, que procura o que há de bom em nós, notou."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2010492#h=3:0-13:0", "fonteNome": "A Sentinela 1/7/2010"
+  },
+  {
+   "v": 21, "tag": "Repare",
+   "titulo": "A mãe amonita de Roboão",
+   "texto": [
+    "Roboão começou a reinar com 41 anos, e Salomão reinou 40. Ou seja, Salomão já tinha se casado com Naamá, uma amonita, antes de se tornar rei.",
+    "Os amonitas eram uma nação inimiga que adorava ídolos. A semente do problema dos casamentos estrangeiros vinha de muito antes."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2011922#h=16:0-17:0", "fonteNome": "A Sentinela 15/12/2011"
+  },
+  {
+   "v": 25, "tag": "Arqueologia",
+   "titulo": "Gravado nas paredes de Carnac",
+   "texto": [
+    "No templo de Carnac, no Egito, um relevo gigante comemora a campanha do faraó Sisaque (Xexonque I) na Palestina. Ele mostra 156 prisioneiros amarrados, e cada um representa uma cidade com o nome escrito em hieróglifos: Megido, Gibeão, Bete-Horom, Aijalom...",
+    "A lista inclui até o “Campo de Abrão”, a referência mais antiga a Abraão em registros egípcios."
+   ],
+   "img": "img/wol/it-1-2020-39.jpg", "alt": "Estela de Mernepta, filho de Ramsés II",
+   "legenda": "Estela de Mernepta, com a única menção conhecida de Israel em antigos textos egípcios · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000344#h=18:0-19:0", "fonteNome": "Perspicaz · Arqueologia"
+  },
+  {
+   "v": 29, "tag": "Fontes antigas",
+   "titulo": "Os livros que não estão na Bíblia",
+   "texto": [
+    "O texto cita o “livro da história dos reis de Judá”. Apesar do nome parecido, não é o nosso livro de Reis.",
+    "Eram registros oficiais antigos, que os escritores inspirados consultavam, mas que não fazem parte da Bíblia."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2009207#h=4:0-5:0", "fonteNome": "A Sentinela 15/3/2009"
+  }
+ ],
+ "pergunta": "Jeová procura o que há de bom em nós. O que de bom ele pode estar vendo em mim, e o que posso fazer para isso crescer?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005487#h=32:0-33:0",
+ "mais": [
+  { "rotulo": "Ele procura o que é bom em nós · A Sentinela 1/7/2010", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2010492" }
+ ]
+}

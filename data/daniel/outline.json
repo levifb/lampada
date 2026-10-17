@@ -1,0 +1,371 @@
+{
+ "1": [
+  {
+   "t": "Jerusalém é sitiada pelos babilônios",
+   "from": 1,
+   "to": 2
+  },
+  {
+   "t": "Treinamento especial para cativos nobres e jovens",
+   "from": 3,
+   "to": 5
+  },
+  {
+   "t": "A fidelidade de quatro hebreus é testada",
+   "from": 6,
+   "to": 21
+  }
+ ],
+ "2": [
+  {
+   "t": "O rei Nabucodonosor tem um sonho perturbador",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "t": "Nenhum sábio é capaz de interpretar o sonho",
+   "from": 5,
+   "to": 13
+  },
+  {
+   "t": "Daniel procura a ajuda de Deus",
+   "from": 14,
+   "to": 18
+  },
+  {
+   "t": "Deus é louvado por ter revelado o segredo",
+   "from": 19,
+   "to": 23
+  },
+  {
+   "t": "Daniel revela o sonho ao rei",
+   "from": 24,
+   "to": 35
+  },
+  {
+   "t": "Interpretação do sonho",
+   "from": 36,
+   "to": 45
+  },
+  {
+   "t": "A pedra do Reino esmigalhará a estátua",
+   "from": 44,
+   "to": 45
+  },
+  {
+   "t": "Daniel é honrado pelo rei",
+   "from": 46,
+   "to": 49
+  }
+ ],
+ "3": [
+  {
+   "t": "A imagem de ouro do rei Nabucodonosor",
+   "from": 1,
+   "to": 7
+  },
+  {
+   "t": "O rei exige a adoração da imagem",
+   "from": 4,
+   "to": 6
+  },
+  {
+   "t": "Três hebreus acusados de não obedecer",
+   "from": 8,
+   "to": 18
+  },
+  {
+   "t": "“Nós não serviremos os seus deuses”",
+   "from": 18,
+   "to": 18
+  },
+  {
+   "t": "Lançados na fornalha ardente",
+   "from": 19,
+   "to": 23
+  },
+  {
+   "t": "Resgatados milagrosamente do fogo",
+   "from": 24,
+   "to": 27
+  },
+  {
+   "t": "O rei enaltece o Deus dos hebreus",
+   "from": 28,
+   "to": 30
+  }
+ ],
+ "4": [
+  {
+   "t": "O rei Nabucodonosor reconhece o reinado de Deus",
+   "from": 1,
+   "to": 3
+  },
+  {
+   "t": "O rei sonha com uma árvore",
+   "from": 4,
+   "to": 18
+  },
+  {
+   "t": "Sete tempos passarão sobre o toco da árvore",
+   "from": 16,
+   "to": 16
+  },
+  {
+   "t": "Deus é Governante sobre a humanidade",
+   "from": 17,
+   "to": 17
+  },
+  {
+   "t": "Daniel interpreta o sonho",
+   "from": 19,
+   "to": 27
+  },
+  {
+   "t": "Cumprimento inicial no rei",
+   "from": 28,
+   "to": 36
+  },
+  {
+   "t": "O rei perde a sanidade por sete tempos",
+   "from": 32,
+   "to": 33
+  },
+  {
+   "t": "O rei enaltece o Deus do céu",
+   "from": 37,
+   "to": 37
+  }
+ ],
+ "5": [
+  {
+   "t": "Banquete do rei Belsazar",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "t": "Escrita na parede",
+   "from": 5,
+   "to": 12
+  },
+  {
+   "t": "Daniel é chamado para interpretar a escrita",
+   "from": 13,
+   "to": 25
+  },
+  {
+   "t": "Interpretação: Babilônia cairá",
+   "from": 26,
+   "to": 31
+  }
+ ],
+ "6": [
+  {
+   "t": "Altos funcionários persas tramam contra Daniel",
+   "from": 1,
+   "to": 9
+  },
+  {
+   "t": "Daniel continua a orar",
+   "from": 10,
+   "to": 15
+  },
+  {
+   "t": "Daniel é lançado na cova dos leões",
+   "from": 16,
+   "to": 24
+  },
+  {
+   "t": "O rei Dario honra o Deus de Daniel",
+   "from": 25,
+   "to": 28
+  }
+ ],
+ "7": [
+  {
+   "t": "Visão de quatro animais",
+   "from": 1,
+   "to": 8
+  },
+  {
+   "t": "Surge um pequeno chifre arrogante",
+   "from": 8,
+   "to": 8
+  },
+  {
+   "t": "O Antigo de Dias preside o tribunal",
+   "from": 9,
+   "to": 14
+  },
+  {
+   "t": "Um filho de homem se torna rei",
+   "from": 13,
+   "to": 14
+  },
+  {
+   "t": "A interpretação é revelada a Daniel",
+   "from": 15,
+   "to": 28
+  },
+  {
+   "t": "Os quatro animais são quatro reis",
+   "from": 17,
+   "to": 17
+  },
+  {
+   "t": "Os santos receberão o reino",
+   "from": 18,
+   "to": 18
+  },
+  {
+   "t": "Surgirão dez chifres ou reis",
+   "from": 24,
+   "to": 24
+  }
+ ],
+ "8": [
+  {
+   "t": "Visão de um carneiro e um bode",
+   "from": 1,
+   "to": 14
+  },
+  {
+   "t": "Um pequeno chifre age com arrogância",
+   "from": 9,
+   "to": 12
+  },
+  {
+   "t": "Até terem passado 2.300 noites e manhãs",
+   "from": 14,
+   "to": 14
+  },
+  {
+   "t": "Gabriel interpreta a visão",
+   "from": 15,
+   "to": 27
+  },
+  {
+   "t": "Explicação sobre o carneiro e o bode",
+   "from": 20,
+   "to": 21
+  },
+  {
+   "t": "Um rei de aparência feroz se levantará",
+   "from": 23,
+   "to": 25
+  }
+ ],
+ "9": [
+  {
+   "t": "Oração de confissão de Daniel",
+   "from": 1,
+   "to": 19
+  },
+  {
+   "t": "Setenta anos de desolação",
+   "from": 2,
+   "to": 2
+  },
+  {
+   "t": "Gabriel aparece a Daniel",
+   "from": 20,
+   "to": 23
+  },
+  {
+   "t": "Preditas 70 semanas proféticas",
+   "from": 24,
+   "to": 27
+  },
+  {
+   "t": "O Messias aparecerá depois de 69 semanas",
+   "from": 25,
+   "to": 25
+  },
+  {
+   "t": "O Messias será eliminado",
+   "from": 26,
+   "to": 26
+  },
+  {
+   "t": "A cidade e o lugar santo serão destruídos",
+   "from": 26,
+   "to": 26
+  }
+ ],
+ "10": [
+  {
+   "t": "Daniel é visitado por um mensageiro de Deus",
+   "from": 1,
+   "to": 21
+  },
+  {
+   "t": "Miguel ajuda o anjo",
+   "from": 13,
+   "to": 13
+  }
+ ],
+ "11": [
+  {
+   "t": "Reis da Pérsia e da Grécia",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "t": "Reis do sul e do norte",
+   "from": 5,
+   "to": 45
+  },
+  {
+   "t": "Surgirá um exator",
+   "from": 20,
+   "to": 20
+  },
+  {
+   "t": "O Líder do pacto será destroçado",
+   "from": 22,
+   "to": 22
+  },
+  {
+   "t": "O deus das fortalezas é glorificado",
+   "from": 38,
+   "to": 38
+  },
+  {
+   "t": "Empurrões entre o rei do sul e o rei do norte",
+   "from": 40,
+   "to": 40
+  },
+  {
+   "t": "Notícias perturbadoras do leste e do norte",
+   "from": 44,
+   "to": 44
+  }
+ ],
+ "12": [
+  {
+   "t": "“O tempo do fim” e depois",
+   "from": 1,
+   "to": 13
+  },
+  {
+   "t": "Miguel se levantará",
+   "from": 1,
+   "to": 1
+  },
+  {
+   "t": "Os que têm discernimento brilharão",
+   "from": 3,
+   "to": 3
+  },
+  {
+   "t": "O conhecimento verdadeiro se tornará abundante",
+   "from": 4,
+   "to": 4
+  },
+  {
+   "t": "Daniel se levantará para receber a sua porção",
+   "from": 13,
+   "to": 13
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "titulo": "“Em quem você está confiando?”",
+ "chamada": "O maior império do mundo cerca Jerusalém. Um oficial assírio grita na língua do povo, por cima da muralha, que Jeová não vai salvar ninguém.",
+ "rei": "Ezequias (Judá)",
+ "quando": "746–732 a.C.",
+ "onde": "Jerusalém · Laquis · Samaria",
+ "capa": {
+  "img": "img/wol/mwb22-2022-1071.jpg",
+  "alt": "O Rabsaqué e um soldado do lado de fora das muralhas de Jerusalém",
+  "legenda": "Como nossos inimigos tentam nos enfraquecer · Apostila Vida e Ministério 2022",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022419"
+ },
+ "intro": "Ezequias, o filho de Acaz que cresceu cercado de idolatria, se torna um rei que confia em Jeová como poucos. No sexto ano dele, Samaria cai. No 14.º, é a vez de Judá enfrentar Senaqueribe, rei da Assíria.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002011#h=3:0-4:0",
+ "achados": [
+  {
+   "v": 4,
+   "tag": "Coragem",
+   "titulo": "Ele quebrou a serpente de Moisés",
+   "texto": [
+    "A serpente de cobre feita por Moisés tinha mais de 700 anos, e o povo a transformou em ídolo, oferecendo incenso a ela. Ezequias mandou despedaçá-la. A Tradução do Novo Mundo diz que ela era chamada de “ídolo-serpente de cobre” (Neustã).",
+    "Jesus usou essa serpente como figura de si mesmo (João 3:14, 15): a fé precisa estar em Deus e no seu Filho, não num objeto."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001031#h=4:0-5:0",
+   "fonteNome": "Perspicaz · Serpente de cobre"
+  },
+  {
+   "v": 10,
+   "tag": "Arqueologia",
+   "titulo": "Quem tomou Samaria?",
+   "texto": [
+    "Nos seus anais, Sargão II diz que cercou e conquistou Samaria. Mas uma crônica babilônica, talvez mais neutra, atribui a devastação a Salmaneser V.",
+    "Inscrições de Sargão também contradizem registros babilônicos sobre outras batalhas. É uma boa lição sobre não colocar registros de reis antigos acima da Bíblia."
+   ],
+   "img": "img/wol/it-2-2020-413.jpg",
+   "alt": "Prisma de Nimrud, que alardeia as conquistas de Sargão",
+   "legenda": "Prisma de Nimrud · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003842#h=5:0-6:0",
+   "fonteNome": "Perspicaz · Sargão"
+  },
+  {
+   "v": 13,
+   "tag": "Arqueologia",
+   "titulo": "Laquis nas paredes de Nínive",
+   "texto": [
+    "Em 1849, Layard encontrou o palácio de Senaqueribe em Nínive, com cerca de 70 salas e 3 km de paredes esculpidas. Num relevo, cativos judeus de Laquis marcham diante do rei, com a inscrição: “Senaqueribe, rei do mundo... passando em revista o despojo de Laquis.”",
+    "Layard escreveu que ninguém imaginaria encontrar ali a guerra entre Ezequias e Senaqueribe, contada pelo próprio Senaqueribe e confirmando o registro bíblico em detalhes."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101997027#h=9:0-11:0",
+   "fonteNome": "Um Livro para Todas as Pessoas"
+  },
+  {
+   "v": 21,
+   "tag": "Táticas do inimigo",
+   "titulo": "“Uma cana quebrada”",
+   "texto": [
+    "O Rabsaqué acusou Ezequias de confiar no Egito, uma cana rachada que fura a mão de quem se apoia nela. Era mentira: Ezequias não tinha feito aliança com o Egito.",
+    "O objetivo era fazer o povo se sentir sozinho, isolado. Cristãos que ficaram presos por causa da fé contaram que a relação com Jeová os manteve firmes mesmo no isolamento."
+   ],
+   "img": "img/wol/it-1-2020-525.jpg",
+   "alt": "O representante de Senaqueribe escarnece de Jeová e exige a rendição de Jerusalém",
+   "legenda": "Perspicaz · O Império Assírio",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2010525#h=8:0-9:0",
+   "fonteNome": "A Sentinela 15/7/2010"
+  },
+  {
+   "v": 26,
+   "tag": "Palavra-chave",
+   "titulo": "Falem em aramaico, por favor",
+   "texto": [
+    "Os oficiais de Ezequias pediram que o Rabsaqué falasse em aramaico, a língua internacional da época, que eles entendiam, mas o povo comum não.",
+    "Ele fez o contrário e gritou em hebraico, para que todos na muralha ouvissem e ficassem com medo."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000333#h=9:0-10:0",
+   "fonteNome": "Perspicaz · Aramaico"
+  }
+ ],
+ "pergunta": "Que coisas eu posso fazer agora que vão me fortalecer para enfrentar perseguição?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022419",
+ "mais": [
+  {
+   "rotulo": "“Não tenhas medo. Eu mesmo te ajudarei.” · A Sentinela",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2010525"
+  }
+ ]
+}

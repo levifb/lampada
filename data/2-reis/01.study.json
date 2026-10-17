@@ -1,0 +1,55 @@
+{
+ "titulo": "Fogo sobre o monte",
+ "chamada": "Um rei doente prefere consultar o “Dono das Moscas” a consultar Jeová. Três capitães sobem o monte para prender Elias. Só um volta.",
+ "rei": "Acazias (Israel)",
+ "quando": "c. 920 a.C.",
+ "onde": "Samaria · Ecrom",
+ "capa": { "img": "img/wol/ijwia-2020-23.jpg", "alt": "O chefe humilde implora misericórdia de Elias", "legenda": "Ele perseverou até o fim · Imite a Sua Fé", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/502018120" },
+ "intro": "2 Reis começa onde 1 Reis parou: Acabe morreu e seu filho Acazias está no trono. Um acidente em casa deixa o rei de cama, e a reação dele mostra que a família de Acabe não aprendeu nada.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000145#h=6:0-7:0",
+ "achados": [
+  {
+   "v": 1, "tag": "Arqueologia",
+   "titulo": "A versão de Moabe",
+   "texto": [
+    "“Moabe se revoltou contra Israel.” Em 1868 foi encontrada em Díbon a Pedra Moabita, onde o rei Mesa conta a sua versão dessa revolta.",
+    "Ela menciona Onri, rei de Israel, e diz que Mesa levou de Nebo objetos “de Yahweh”, isto é, de Jeová. A pedra também cita muitas cidades que aparecem na Bíblia."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000344#h=33:0-34:0", "fonteNome": "Perspicaz · Arqueologia"
+  },
+  {
+   "v": 2, "tag": "Palavra-chave",
+   "titulo": "Baal-Zebube, o “Dono das Moscas”",
+   "texto": [
+    "Acazias caiu pela grade do quarto no terraço, talvez uma que cobria uma claraboia, e ficou gravemente doente.",
+    "Como se o Deus verdadeiro não existisse, mandou perguntar ao deus filisteu de Ecrom, Baal-Zebube, nome que significa “Dono das Moscas”, se ia se recuperar."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000145#h=6:0-7:0", "fonteNome": "Perspicaz · Acazias"
+  },
+  {
+   "v": 8, "tag": "Repare",
+   "titulo": "Reconhecido pela roupa",
+   "texto": [
+    "Os mensageiros só descreveram a roupa de pelos e o cinto de couro, e o rei logo entendeu: “Era Elias.”",
+    "A roupa simples mostrava uma vida simples, focada em servir a Jeová, bem diferente de Acazias e dos pais dele, gananciosos e materialistas."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/502018120#h=8:0-9:0", "fonteNome": "Imite a Sua Fé · Ele perseverou até o fim"
+  },
+  {
+   "v": 13, "tag": "A cena",
+   "titulo": "O terceiro capitão",
+   "texto": [
+    "O segundo capitão não aprendeu nada com as cinzas do primeiro e ainda mandou Elias descer “depressa”. O rei, mais tolo ainda, enviou um terceiro grupo.",
+    "Esse capitão foi sábio: ajoelhou-se e pediu pela própria vida e pela de seus homens. Foi poupado. E por que Elias estava no alto do monte? Talvez porque era um lugar tranquilo para orar."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/502018120#h=10:0-11:0", "fonteNome": "Imite a Sua Fé · Ele perseverou até o fim"
+  }
+ ],
+ "pergunta": "Quando alguém próximo não aceita conselhos e toma decisões ruins, eu procuro um tempo a sós com Jeová, como Elias fazia, para perseverar?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/502018120#h=10:0-11:0",
+ "mais": [
+  { "rotulo": "Vídeo: Introdução a 2 Reis (5 min)", "url": "https://www.jw.org/open?docid=1001071916&prefer=lang&wtlocale=T" },
+  { "rotulo": "Destaques do livro de Segundo dos Reis · A Sentinela", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005562" },
+  { "rotulo": "Ele perseverou até o fim · Imite a Sua Fé", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/502018120" }
+ ]
+}

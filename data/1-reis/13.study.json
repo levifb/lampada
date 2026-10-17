@@ -1,0 +1,53 @@
+{
+ "titulo": "O profeta e o leão",
+ "chamada": "Um homem de Deus anuncia o nome de um rei que só nasceria 300 anos depois. Resiste ao rei, mas cai na conversa de um velho profeta.",
+ "rei": "Jeroboão (Israel)",
+ "onde": "Betel",
+ "capa": { "img": "img/wol/it-1-2020-569.jpg", "alt": "Um alto em Gezer, onde se erigiram colunas sagradas", "legenda": "Um alto em Gezer · Perspicaz", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002022" },
+ "intro": "Jeroboão está de pé junto ao altar que construiu em Betel, oferecendo incenso. Nesse momento chega um homem de Deus vindo de Judá, com uma mensagem que vai rachar o altar ao meio e só se cumpriria três séculos depois.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2014323#h=8:0-9:0",
+ "achados": [
+  {
+   "v": 2, "tag": "Profecia cumprida",
+   "titulo": "Um nome anunciado 300 anos antes",
+   "texto": [
+    "O profeta disse que nasceria na família de Davi um homem chamado Josias, e que ele queimaria ossos humanos sobre aquele altar de Betel.",
+    "Uns três séculos depois, nasceu um rei chamado Josias, um nome incomum na Bíblia, da linhagem de Davi. E ele fez exatamente isso (2 Reis 23:15, 16). Quem conseguiria prever tantos detalhes sem ajuda sobre-humana?"
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2014323#h=8:0-9:0", "fonteNome": "A Sentinela 1/5/2014"
+  },
+  {
+   "v": 8, "tag": "Lição",
+   "titulo": "Nem pela metade da casa do rei",
+   "texto": [
+    "Jeroboão ofereceu hospitalidade e um presente. Ele tinha meios para dar presentes caros, e para alguém apegado a bens materiais isso seria uma enorme tentação.",
+    "Mas Jeová tinha dado uma ordem clara: não comer, não beber e voltar por outro caminho. O profeta respondeu sem rodeios: nem pela metade da casa do rei."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2008601#h=7:0-12:0", "fonteNome": "A Sentinela 15/8/2008"
+  },
+  {
+   "v": 18, "tag": "O que deu errado",
+   "titulo": "“Ele o enganou”",
+   "texto": [
+    "O velho profeta de Betel disse que um anjo tinha mandado buscá-lo. Era mentira.",
+    "O profeta de Judá poderia ter se perguntado: por que Jeová mandaria novas instruções para mim por meio de outra pessoa? Poderia ter pedido esclarecimento a Jeová, mas não há sinal de que tenha feito isso. Ele voltou, comeu, e na volta para casa foi morto por um leão."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2008601#h=12:0-17:0", "fonteNome": "A Sentinela 15/8/2008"
+  },
+  {
+   "v": 32, "tag": "Geografia",
+   "titulo": "“Cidades de Samaria”, antes de Samaria existir",
+   "texto": [
+    "O nome Samaria, a futura capital do norte, passou a ser usado para todo o território das dez tribos. Por isso “as cidades de Samaria” são as cidades espalhadas pelo reino de Israel, e não só as que ficavam em volta da capital."
+   ],
+   "img": "img/wol/it-2-2020-411.jpg", "alt": "Ruínas romanas da antiga Samaria",
+   "legenda": "Ruínas romanas da antiga Samaria · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003816#h=17:0-18:0", "fonteNome": "Perspicaz · Samaria"
+  }
+ ],
+ "pergunta": "Como posso mostrar que estou contente com o necessário para viver? Como posso mostrar modéstia ao tomar decisões?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022328",
+ "mais": [
+  { "rotulo": "Mantenha a lealdade com um coração unificado · A Sentinela", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2008601" }
+ ]
+}

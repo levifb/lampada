@@ -1,0 +1,395 @@
+{
+ "sources": [
+  "https://wol.jw.org/pt/wol/d/r5/lp-t/1001070206",
+  "https://wol.jw.org/pt/wol/d/r5/lp-t/1001070215"
+ ],
+ "events": [
+  {
+   "year": "740",
+   "kingdom": "israel",
+   "text": "A Assíria conquista Samaria e domina Israel; o reino de Israel de dez tribos, ao norte, chega ao seu fim"
+  },
+  {
+   "year": "607",
+   "kingdom": "juda",
+   "text": "Jerusalém e seu templo são destruídos pelos babilônios durante o reinado de Nabucodonosor. Zedequias, o último rei da linhagem de Davi, é tirado do trono"
+  }
+ ],
+ "prophets": [
+  "Joel",
+  "Elias",
+  "Eliseu",
+  "Jonas",
+  "Amós",
+  "Isaías",
+  "Miqueias",
+  "Sofonias",
+  "Jeremias",
+  "Naum",
+  "Habacuque",
+  "Daniel",
+  "Ezequiel",
+  "Obadias",
+  "Oseias"
+ ],
+ "juda": [
+  {
+   "year": "997",
+   "name": "Roboão",
+   "reign": "17 anos",
+   "chapters": [
+    "1-reis/11",
+    "1-reis/12",
+    "1-reis/14"
+   ]
+  },
+  {
+   "year": "980",
+   "name": "Abias (Abião)",
+   "reign": "3 anos",
+   "chapters": [
+    "1-reis/15"
+   ]
+  },
+  {
+   "year": "978",
+   "name": "Asa",
+   "reign": "41 anos",
+   "chapters": [
+    "1-reis/15"
+   ]
+  },
+  {
+   "year": "937",
+   "name": "Jeosafá",
+   "reign": "25 anos",
+   "chapters": [
+    "1-reis/22"
+   ]
+  },
+  {
+   "year": "913",
+   "name": "Jeorão",
+   "reign": "8 anos",
+   "chapters": [
+    "2-reis/8",
+    "2-reis/9"
+   ]
+  },
+  {
+   "year": "c. 906",
+   "name": "Acazias",
+   "reign": "1 ano",
+   "chapters": [
+    "2-reis/1",
+    "2-reis/8",
+    "2-reis/9"
+   ]
+  },
+  {
+   "year": "c. 905",
+   "name": "Rainha Atalia",
+   "reign": "6 anos",
+   "chapters": [
+    "2-reis/11"
+   ]
+  },
+  {
+   "year": "898",
+   "name": "Jeoás",
+   "reign": "40 anos",
+   "chapters": [
+    "2-reis/11",
+    "2-reis/12",
+    "2-reis/13"
+   ]
+  },
+  {
+   "year": "858",
+   "name": "Amazias",
+   "reign": "29 anos",
+   "chapters": [
+    "2-reis/14"
+   ]
+  },
+  {
+   "year": "829",
+   "name": "Uzias (Azarias)",
+   "reign": "52 anos",
+   "chapters": [
+    "2-reis/15"
+   ]
+  },
+  {
+   "year": "777",
+   "name": "Jotão",
+   "reign": "16 anos",
+   "chapters": [
+    "2-reis/15"
+   ]
+  },
+  {
+   "year": "762",
+   "name": "Acaz",
+   "reign": "16 anos",
+   "chapters": [
+    "2-reis/16"
+   ]
+  },
+  {
+   "year": "746",
+   "name": "Ezequias",
+   "reign": "29 anos",
+   "chapters": [
+    "2-reis/18",
+    "2-reis/19",
+    "2-reis/20"
+   ]
+  },
+  {
+   "year": "716",
+   "name": "Manassés",
+   "reign": "55 anos",
+   "chapters": [
+    "2-reis/21"
+   ]
+  },
+  {
+   "year": "661",
+   "name": "Amom",
+   "reign": "2 anos",
+   "chapters": [
+    "2-reis/21"
+   ]
+  },
+  {
+   "year": "659",
+   "name": "Josias",
+   "reign": "31 anos",
+   "chapters": [
+    "2-reis/22",
+    "2-reis/23"
+   ]
+  },
+  {
+   "year": "628",
+   "name": "Jeoacaz",
+   "reign": "3 meses",
+   "chapters": [
+    "2-reis/23"
+   ]
+  },
+  {
+   "year": "628",
+   "name": "Jeoiaquim",
+   "reign": "11 anos",
+   "chapters": [
+    "2-reis/23",
+    "2-reis/24"
+   ]
+  },
+  {
+   "year": "618",
+   "name": "Joaquim",
+   "reign": "3 meses e 10 dias",
+   "chapters": [
+    "2-reis/24",
+    "2-reis/25"
+   ]
+  },
+  {
+   "year": "617",
+   "name": "Zedequias",
+   "reign": "11 anos",
+   "chapters": [
+    "2-reis/24"
+   ]
+  }
+ ],
+ "israel": [
+  {
+   "year": "997",
+   "name": "Jeroboão",
+   "reign": "22 anos",
+   "chapters": [
+    "1-reis/11",
+    "1-reis/12",
+    "1-reis/14"
+   ]
+  },
+  {
+   "year": "c. 976",
+   "name": "Nadabe",
+   "reign": "2 anos",
+   "chapters": [
+    "1-reis/15"
+   ]
+  },
+  {
+   "year": "c. 975",
+   "name": "Baasa",
+   "reign": "24 anos",
+   "chapters": [
+    "1-reis/15",
+    "1-reis/16"
+   ]
+  },
+  {
+   "year": "c. 952",
+   "name": "Elá",
+   "reign": "2 anos",
+   "chapters": [
+    "1-reis/16"
+   ]
+  },
+  {
+   "year": "c. 951",
+   "name": "Zinri",
+   "reign": "7 dias",
+   "chapters": [
+    "1-reis/16"
+   ]
+  },
+  {
+   "year": "c. 951",
+   "name": "Onri e Tibni",
+   "reign": "4 anos",
+   "chapters": [
+    "1-reis/16"
+   ]
+  },
+  {
+   "year": "c. 947",
+   "name": "Onri (sozinho)",
+   "reign": "8 anos",
+   "chapters": [
+    "1-reis/16"
+   ]
+  },
+  {
+   "year": "c. 940",
+   "name": "Acabe",
+   "reign": "22 anos",
+   "chapters": [
+    "1-reis/16",
+    "1-reis/18",
+    "1-reis/20",
+    "1-reis/21",
+    "1-reis/22",
+    "2-reis/10"
+   ]
+  },
+  {
+   "year": "c. 920",
+   "name": "Acazias",
+   "reign": "2 anos",
+   "chapters": [
+    "1-reis/22",
+    "2-reis/1",
+    "2-reis/9"
+   ]
+  },
+  {
+   "year": "c. 917",
+   "name": "Jeorão",
+   "reign": "12 anos",
+   "chapters": [
+    "2-reis/3",
+    "2-reis/9"
+   ]
+  },
+  {
+   "year": "c. 905",
+   "name": "Jeú",
+   "reign": "28 anos",
+   "chapters": [
+    "1-reis/19",
+    "2-reis/9",
+    "2-reis/10"
+   ]
+  },
+  {
+   "year": "876",
+   "name": "Jeoacaz",
+   "reign": "14 anos",
+   "chapters": [
+    "2-reis/13"
+   ]
+  },
+  {
+   "year": "c. 862",
+   "name": "Jeoacaz e Jeoás",
+   "reign": "3 anos",
+   "chapters": [
+    "2-reis/13"
+   ]
+  },
+  {
+   "year": "c. 859",
+   "name": "Jeoás (sozinho)",
+   "reign": "16 anos",
+   "chapters": [
+    "2-reis/11",
+    "2-reis/12",
+    "2-reis/13",
+    "2-reis/14"
+   ]
+  },
+  {
+   "year": "c. 844",
+   "name": "Jeroboão II",
+   "reign": "41 anos",
+   "chapters": [
+    "2-reis/14"
+   ]
+  },
+  {
+   "year": "c. 803",
+   "name": "Zacarias",
+   "reign": "registrado: 6 meses",
+   "chapters": [
+    "2-reis/15"
+   ]
+  },
+  {
+   "year": "c. 791",
+   "name": "Salum",
+   "reign": "1 mês",
+   "chapters": [
+    "2-reis/15"
+   ]
+  },
+  {
+   "year": "c. 791",
+   "name": "Menaém",
+   "reign": "10 anos",
+   "chapters": [
+    "2-reis/15"
+   ]
+  },
+  {
+   "year": "c. 780",
+   "name": "Pecaías",
+   "reign": "2 anos",
+   "chapters": [
+    "2-reis/15"
+   ]
+  },
+  {
+   "year": "c. 778",
+   "name": "Peca",
+   "reign": "20 anos",
+   "chapters": [
+    "2-reis/15"
+   ]
+  },
+  {
+   "year": "c. 758",
+   "name": "Oseias",
+   "reign": "9 anos a partir de c. 748",
+   "chapters": [
+    "2-reis/17"
+   ]
+  }
+ ]
+}

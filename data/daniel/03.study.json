@@ -1,0 +1,86 @@
+{
+ "titulo": "A fornalha sete vezes mais quente",
+ "chamada": "Uma estátua de ouro de 27 metros, uma orquestra inteira como sinal para todos se curvarem, e três jovens que continuam de pé.",
+ "rei": "Nabucodonosor (Babilônia)",
+ "onde": "Planície de Dura, perto de Babilônia",
+ "capa": {
+  "img": "img/lfb2/1102016071-0.jpg",
+  "alt": "Sadraque, Mesaque e Abednego se recusam a adorar a estátua de ouro",
+  "legenda": "Eles não adoraram a estátua · Aprenda com as Histórias da Bíblia",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016071"
+ },
+ "intro": "Para fortalecer a união do império, Nabucodonosor ergueu uma imagem de ouro de 60 côvados (27 m) de altura e 6 côvados (2,7 m) de largura. Talvez fosse uma coluna, ou uma estátua sobre um pedestal alto, representando o rei ou o deus Nebo. Todos os altos funcionários foram chamados para a inauguração.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101999024#h=10:0-11:0",
+ "achados": [
+  {
+   "v": 1,
+   "tag": "Arqueologia",
+   "titulo": "Onde ficava Dura?",
+   "texto": [
+    "Alguns peritos apontam Tulul Dura, a 10 km a sudeste de Babilônia, onde há ruínas de uma base de tijolos de 14 metros de lado, que alguns acham ter sido a base da imagem.",
+    "Mas “duru” significa “muro” ou “lugar murado” em acadiano e aparece em muitos nomes de lugares, então não dá para ter certeza."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001232#h=1:0-4:0",
+   "fonteNome": "Perspicaz · Dura"
+  },
+  {
+   "v": 6,
+   "tag": "Arqueologia",
+   "titulo": "A fornalha era real",
+   "texto": [
+    "Registros babilônicos mostram que o rei mandava jogar numa fornalha quem o desobedecesse ou desrespeitasse coisas sagradas.",
+    "Um texto da época de Nabucodonosor diz: “Destrua-os, queime-os, asse-os... jogue-os na fornalha... faça a fumaça deles subir.”"
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2023487#h=4:0-6:0",
+   "fonteNome": "A Sentinela (Estudo) 7/2023 · Você Sabia?"
+  },
+  {
+   "v": 18,
+   "tag": "Fé",
+   "titulo": "“Mas, se não...”",
+   "texto": [
+    "Eles disseram ao rei que Deus podia livrá-los, mas que, mesmo que não fizesse isso, não serviriam aos deuses dele.",
+    "A fé deles não dependia de um livramento. Hebreus 11 talvez se refira a homens assim, que “pararam a força do fogo”."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003007#h=4:0-6:0",
+   "fonteNome": "Perspicaz · Mesaque"
+  },
+  {
+   "v": 21,
+   "tag": "Detalhe",
+   "titulo": "Com roupa, gorro e tudo",
+   "texto": [
+    "Foram jogados totalmente vestidos, até com os gorros, que talvez indicassem o título ou cargo deles. Alguns acham que tinham forma cônica.",
+    "O detalhe deixa o milagre ainda mais claro: nada daquilo pegou fogo."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001944#h=8:0-9:0",
+   "fonteNome": "Perspicaz · Cobertura para a cabeça"
+  },
+  {
+   "v": 27,
+   "tag": "A cena",
+   "titulo": "Nem cheiro de fumaça",
+   "texto": [
+    "Saíram como se nunca tivessem entrado: nem o cabelo chamuscado, nem cheiro de fogo. Todos os altos funcionários viram.",
+    "O rei teve de reconhecer: “não há outro deus que possa livrar assim como este”."
+   ],
+   "img": "img/lfb2/1102016071-1.jpg",
+   "alt": "Nabucodonosor fica assustado quando vê Sadraque, Mesaque e Abednego saindo vivos da fornalha ardente",
+   "legenda": "Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101999024#h=25:0-26:0",
+   "fonteNome": "Profecia de Daniel · cap. 6"
+  }
+ ],
+ "pergunta": "A minha lealdade a Jeová depende de ele me livrar dos problemas? Que situações hoje são como “se curvar à imagem”?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101999024",
+ "mais": [
+  {
+   "rotulo": "Sua fé sobreviveu ao crisol · Profecia de Daniel",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101999024"
+  },
+  {
+   "rotulo": "Eles não se curvaram · Meu Livro de Histórias Bíblicas",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101978133"
+  }
+ ]
+}

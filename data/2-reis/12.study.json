@@ -1,0 +1,52 @@
+{
+ "titulo": "Um cofre na entrada do templo",
+ "chamada": "O rei menino cresce, manda consertar o templo e inventa um jeito transparente de cuidar das doações. Mas, sob pressão, entrega tudo a Hazael.",
+ "rei": "Jeoás (Judá)",
+ "quando": "898–858 a.C.",
+ "onde": "Jerusalém",
+ "capa": {
+  "img": "img/bm/1102009463-0.jpg",
+  "alt": "Um jovem rei israelita",
+  "legenda": "Reis bons e reis maus · A Bíblia — Qual é a Sua Mensagem?",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102009463"
+ },
+ "intro": "Jeoás começou a reinar com sete anos e fez o que era certo enquanto o sacerdote Jeoiada o instruiu. O templo estava estragado, e os sacerdotes não faziam os reparos.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022410",
+ "achados": [
+  {
+   "v": 10,
+   "tag": "Costumes da época",
+   "titulo": "Dinheiro em trouxinhas lacradas",
+   "texto": [
+    "O dinheiro do cofre do templo era contado e amarrado em sacos, pelo visto com quantias iguais.",
+    "Em negócios grandes, o metal era pesado, posto em sacos e lacrado. Com o lacre intacto, o saco podia passar de mão em mão com a garantia do valor."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000534#h=7:0-8:0",
+   "fonteNome": "Perspicaz · Saca"
+  },
+  {
+   "v": 13,
+   "tag": "Palavra-chave",
+   "titulo": "Os “apagadores”",
+   "texto": [
+    "A palavra hebraica vem de uma raiz que significa “aparar, podar”. Por isso alguns acham que eram tesouras para aparar o pavio das lâmpadas.",
+    "O que se sabe com certeza é que eram de ouro ou de cobre e usados no serviço do templo."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001463#h=1:0-3:0",
+   "fonteNome": "Perspicaz · Apagadores"
+  },
+  {
+   "v": 18,
+   "tag": "O que deu errado",
+   "titulo": "Comprando a paz de Hazael",
+   "texto": [
+    "Hazael, rei da Síria, tomou Gate e virou-se para Jerusalém. Jeoás pegou as coisas sagradas do templo e do palácio e mandou para ele.",
+    "Hazael se retirou, mas o rei que tinha consertado o templo acabou esvaziando-o."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001923#h=5:0-8:0",
+   "fonteNome": "Perspicaz · Hazael"
+  }
+ ],
+ "pergunta": "Jeoás andou bem enquanto Jeoiada o orientou. A minha fé depende de outras pessoas, ou é realmente minha?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016063"
+}

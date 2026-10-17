@@ -1,0 +1,92 @@
+{
+ "titulo": "A escrita na parede",
+ "chamada": "Mil convidados bebem nos utensílios do templo de Jeová. De repente, dedos de mão escrevem na parede. Naquela mesma noite, Babilônia cai.",
+ "rei": "Belsazar (Babilônia)",
+ "quando": "5 de outubro de 539 a.C.",
+ "onde": "Babilônia",
+ "capa": {
+  "img": "img/my/1101978134-0.jpg",
+  "alt": "O rei Belsazar e seus convidados observam a escrita na parede com medo e espanto",
+  "legenda": "A escrita na parede · Meu Livro de Histórias Bíblicas",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101978134"
+ },
+ "intro": "Babilônia estava cercada pelos exércitos de Ciro, o persa, e de Dario, o medo. Mesmo assim, Belsazar dá um banquete para mil nobres. Os babilônios achavam as muralhas da cidade impossíveis de vencer.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000628#h=8:0-12:0",
+ "achados": [
+  {
+   "v": 1,
+   "tag": "Arqueologia",
+   "titulo": "O rei que “não existia”",
+   "texto": [
+    "Por muito tempo, só a Bíblia citava Belsazar, e críticos diziam que Daniel era historicamente inútil. Em 1854, no Iraque, apareceu uma inscrição com uma oração por Nabonido e seu filho mais velho: Belsazar.",
+    "Documentos mostram ainda que Nabonido “confiou o reinado” a Belsazar, e que as pessoas juravam pelos dois, algo que normalmente se fazia só pelo rei."
+   ],
+   "img": "img/wol/it-1-2020-69.jpg",
+   "alt": "Cilindro de templo babilônico que menciona o rei Nabonido e seu filho Belsazar",
+   "legenda": "Cilindro que cita Nabonido e Belsazar · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1986087#h=2:0-8:0",
+   "fonteNome": "A Sentinela 1/2/1986"
+  },
+  {
+   "v": 7,
+   "tag": "Detalhe revelador",
+   "titulo": "Por que “terceiro” no reino?",
+   "texto": [
+    "Belsazar ofereceu fazer quem lesse a escrita o terceiro governante do reino. Por que não o segundo?",
+    "Porque Nabonido era o primeiro e Belsazar, o segundo. Um detalhe que só faz sentido para quem conhecia a situação da época."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003156#h=12:0-13:0",
+   "fonteNome": "Perspicaz · Nabonido"
+  },
+  {
+   "v": 10,
+   "tag": "Quem é quem",
+   "titulo": "A rainha que lembrou de Daniel",
+   "texto": [
+    "Essa “rainha” não era a esposa de Belsazar, mas, pelo visto, a mãe dele, a rainha-mãe. Ela conhecia os acontecimentos do tempo de Nabucodonosor, avô de Belsazar, e era muito respeitada."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003605#h=6:0-7:0",
+   "fonteNome": "Perspicaz · Rainha"
+  },
+  {
+   "v": 25,
+   "tag": "Palavra-chave",
+   "titulo": "Mene, Mene, Tequel e Parsim",
+   "texto": [
+    "Literalmente: “Uma mina, uma mina, um siclo e meios siclos”, unidades de peso e de dinheiro. Escrito só com consoantes, exigia a leitura e a interpretação certas.",
+    "MENE: Deus contou os dias do teu reino. TEQUEL: foste pesado e achado deficiente. PERES: teu reino foi dividido e dado aos medos e persas. MENE aparece duas vezes, talvez porque valia para os dois governantes, Nabonido e Belsazar."
+   ],
+   "img": "img/my/1101978134-1.jpg",
+   "alt": "Uma mão escreve na parede MENE, MENE, TEQUEL e PARSIM",
+   "legenda": "Meu Livro de Histórias Bíblicas",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002979#h=1:0-5:0",
+   "fonteNome": "Perspicaz · Mene"
+  },
+  {
+   "v": 30,
+   "tag": "Profecia cumprida",
+   "titulo": "Naquela mesma noite",
+   "texto": [
+    "Na noite de 5/6 de outubro de 539 a.C., o exército medo-persa tomou a cidade que parecia inexpugnável, e Belsazar foi morto.",
+    "Daniel, já idoso, viu a cabeça de ouro da estátua do capítulo 2 deixar de existir."
+   ],
+   "img": "img/lfb2/1102016073-1.jpg",
+   "alt": "Os soldados de Ciro marcham pelo rio e sobem até os portões de Babilônia",
+   "legenda": "As palavras que apareceram na parede · Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101999023#h=16:0-29:0",
+   "fonteNome": "Profecia de Daniel · cap. 4"
+  }
+ ],
+ "pergunta": "Belsazar sabia o que tinha acontecido com o avô e não aprendeu. O que eu já sei e ainda não pus em prática?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101999026",
+ "mais": [
+  {
+   "rotulo": "Quatro palavras que mudaram o mundo · Profecia de Daniel",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101999026"
+  },
+  {
+   "rotulo": "As palavras que apareceram na parede · Histórias da Bíblia",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016073"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "titulo": "Uma casa para Jeová",
+ "chamada": "Pedras preparadas na pedreira, para não se ouvir martelo na obra. Paredes de cedro cobertas de ouro e dois querubins de 4,5 metros.",
+ "rei": "Salomão",
+ "quando": "1034–1027 a.C.",
+ "onde": "Monte Moriá, Jerusalém",
+ "capa": {
+  "img": "img/it/1200001397-2.jpg",
+  "alt": "Vista em corte do interior do templo, com o Santo e o Santíssimo revestidos de ouro",
+  "legenda": "O templo construído por Salomão · Perspicaz",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001397"
+ },
+ "intro": "O primeiro versículo deste capítulo é uma das âncoras da cronologia bíblica. Ele liga a construção do templo à saída do Egito e permite datar boa parte da história de Israel. Depois vem a planta: medidas, materiais e um interior todo de ouro.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000970#h=206:0-207:0",
+ "achados": [
+  {
+   "v": 1,
+   "tag": "Cronologia",
+   "titulo": "479 anos depois do Êxodo",
+   "texto": [
+    "O texto diz que a obra começou no “480.º ano” depois da saída do Egito. Por ser um número ordinal, isso quer dizer 479 anos completos e mais um pouco.",
+    "Contando 479 anos a partir do Êxodo, em nisã de 1513 a.C., chega-se a 1034 a.C. A obra começou no segundo mês, zive, no quarto ano de Salomão."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000970#h=206:0-207:0",
+   "fonteNome": "Perspicaz · Cronologia"
+  },
+  {
+   "v": 3,
+   "tag": "Em números",
+   "titulo": "Um pórtico de 53 metros",
+   "texto": [
+    "O pórtico na frente do Santo tinha 20 côvados de largura (8,9 m) e 10 de fundo (4,5 m). 2 Crônicas 3:4 dá também a altura: 120 côvados, cerca de 53 metros.",
+    "Era uma entrada monumental, que dava para ver de longe."
+   ],
+   "img": "img/wol/nwtsty-2026-100.jpg",
+   "alt": "Apêndice B8: O templo construído por Salomão",
+   "legenda": "B8 · O templo construído por Salomão · Tradução do Novo Mundo",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003528#h=9:0-10:0",
+   "fonteNome": "Perspicaz · Pórtico"
+  },
+  {
+   "v": 23,
+   "tag": "Detalhes",
+   "titulo": "Os querubins do Santíssimo",
+   "texto": [
+    "Eram dois querubins enormes, de madeira de oleastro coberta de ouro, cada um com 10 côvados (4,5 m) de altura.",
+    "Ficavam a 10 côvados um do outro, voltados para o leste. Uma asa de cada querubim tocava a parede, e a outra encostava na asa do outro, bem no centro do recinto."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000945#h=5:0-6:0",
+   "fonteNome": "Perspicaz · Querubim"
+  },
+  {
+   "v": 29,
+   "tag": "Por dentro",
+   "titulo": "Cedro, junípero e ouro",
+   "texto": [
+    "O piso era de junípero. As paredes internas eram de cedro, com entalhes de querubins, palmeiras e flores. Paredes e teto ficavam inteiramente cobertos de ouro.",
+    "As portas do Santo eram de junípero, e as do Santíssimo, de oleastro. Todas eram esculpidas e revestidas de ouro."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200004359#h=9:0-10:0",
+   "fonteNome": "Perspicaz · Templo"
+  },
+  {
+   "v": 38,
+   "tag": "Calendário",
+   "titulo": "Bul, o oitavo mês",
+   "texto": [
+    "O templo ficou pronto no mês de bul, o oitavo mês do calendário sagrado. Foram cerca de sete anos de obra.",
+    "Anos depois, Jeroboão escolheu justamente esse mês para inventar uma festa no reino do norte e afastar o povo de Jerusalém."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000836#h=6:0-7:0",
+   "fonteNome": "Perspicaz · Bul"
+  }
+ ],
+ "mais": [
+  {
+   "rotulo": "B8 · O templo construído por Salomão · TNM",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1001070228"
+  },
+  {
+   "rotulo": "Salomão constrói o templo · Meu Livro de Histórias Bíblicas",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101978119"
+  }
+ ],
+ "pergunta": "Salomão e o povo trabalharam duro por sete anos, motivados por amor a Jeová. O que me motiva a servir a Jeová?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022259"
+}

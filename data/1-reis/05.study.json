@@ -1,0 +1,51 @@
+{
+ "titulo": "Cedros do Líbano",
+ "chamada": "Um rei estrangeiro, 30 mil trabalhadores em turnos e troncos gigantes descendo o mar em jangadas: começa a obra do templo.",
+ "rei": "Salomão",
+ "onde": "Jerusalém · Tiro · Líbano",
+ "intro": "Davi queria construir uma casa para Jeová, mas Deus disse que essa honra seria do filho dele. Não era que Jeová desaprovasse as guerras de Davi pelo Seu nome. É que o templo devia ser construído em paz, por um homem de paz. Agora chegou a hora.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200004359#h=3:0-4:0",
+ "achados": [
+  {
+   "v": 11,
+   "tag": "Comércio",
+   "titulo": "Pago em azeite",
+   "texto": [
+    "Como parte do pagamento pela madeira, Salomão mandava a Hirão, todo ano, 20 coros (uns 4.400 litros) de azeite batido, além de trigo.",
+    "O azeite de oliva era abundante em Israel e virou uma das mercadorias mais importantes da região. Judá e Israel chegaram a ser fornecedores de azeite para Tiro."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003313#h=7:0-8:0",
+   "fonteNome": "Perspicaz · Azeite"
+  },
+  {
+   "v": 13,
+   "tag": "Como funcionava",
+   "titulo": "Um mês no Líbano, dois em casa",
+   "texto": [
+    "Salomão recrutou 30 mil israelitas para trabalhar, em turnos de 10 mil por mês. Cada turno passava um mês no Líbano e dois meses em casa.",
+    "Esse tipo de trabalho obrigatório, a corveia, era usado pelos reis da época para fazer suas construções."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005126#h=8:0-9:0",
+   "fonteNome": "A Sentinela 15/2/2005"
+  },
+  {
+   "v": 16,
+   "tag": "A Bíblia se contradiz?",
+   "titulo": "3.300 + 550 = 3.600 + 250",
+   "texto": [
+    "1 Reis fala em 3.300 capatazes e 550 chefes. 2 Crônicas fala em 3.600 e 250. Parece contradição, mas as duas contas dão 3.850.",
+    "A diferença parece estar no jeito de agrupar. Crônicas separa estrangeiros de israelitas, e Reis separa capatazes de chefes de posição mais alta."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005884#h=11:0-12:0",
+   "fonteNome": "A Sentinela 1/12/2005 · Destaques de 2 Crônicas"
+  }
+ ],
+ "capa": {
+  "img": "img/wol/mwb22-2022-704.jpg",
+  "alt": "O rei Salomão escuta com atenção enquanto um trabalhador explica os detalhes da construção do templo",
+  "legenda": "Uma obra motivada por amor a Jeová · Apostila Vida e Ministério",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022259"
+ },
+ "pergunta": "Será que eu estou me esforçando para manter o zelo na minha adoração a Jeová?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022259"
+}

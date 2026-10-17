@@ -1,0 +1,61 @@
+{
+ "titulo": "Um altar copiado de Damasco",
+ "chamada": "Atacado por todos os lados, o rei de Judá ignora o profeta Isaías e compra a ajuda da Assíria. Depois volta de Damasco com uma planta de altar pagão.",
+ "rei": "Acaz (Judá)",
+ "quando": "762–746 a.C.",
+ "onde": "Jerusalém · Damasco · Elate",
+ "capa": {
+  "img": "img/wol/it-1-2020-59.jpg",
+  "alt": "Painel de Nimrud mostrando soldados assírios levando embora os deuses duma cidade conquistada",
+  "legenda": "Painel assírio de Nimrud · Perspicaz",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000447"
+ },
+ "intro": "Isaías, Oseias e Miqueias profetizaram no tempo de Acaz. Mesmo assim, o reinado dele foi marcado por idolatria grosseira. Ele chegou a oferecer o próprio filho no fogo, no vale de Hinom. Síria e Israel atacavam pelo norte, Edom pelo sudeste e os filisteus pelo oeste.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000144#h=3:0-5:0",
+ "achados": [
+  {
+   "v": 3,
+   "tag": "Para refletir",
+   "titulo": "Crescer num lar assim",
+   "texto": [
+    "Alguns dizem que “passar pelo fogo” era só um rito de purificação, mas estudos mostram que era sacrifício humano a Moloque.",
+    "O filho Ezequias cresceu nesse ambiente. Alguns acham que ele compôs o Salmo 119 ainda jovem príncipe: zombado na corte, mas ocupado com os regulamentos de Jeová. Mais tarde seria um dos melhores reis de Judá."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1997523#h=6:0-7:0",
+   "fonteNome": "A Sentinela 15/7/1997"
+  },
+  {
+   "v": 6,
+   "tag": "Detalhe do texto",
+   "titulo": "Síria ou Edom?",
+   "texto": [
+    "O texto massorético diz que os sírios tomaram Elate, mas a maioria dos peritos aceita a leitura “Edom”, da margem. Em hebraico, as letras de Arã (Síria) e Edom são parecidas, e um copista pode ter confundido as letras dálete (ד) e rexe (ר).",
+    "Elate era um oásis e porto de caravanas e navios no golfo de Ácaba. Nunca mais voltou a ser de Judá."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001277#h=6:0-7:0",
+   "fonteNome": "Perspicaz · Elate"
+  },
+  {
+   "v": 9,
+   "tag": "Profecia cumprida",
+   "titulo": "De volta a Quir",
+   "texto": [
+    "Amós tinha dito que os arameus voltariam a Quir, de onde tinham vindo, mas como exilados.",
+    "Subornado por Acaz, Tiglate-Pileser III tomou Damasco e levou o povo para Quir."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002619#h=1:0-3:0",
+   "fonteNome": "Perspicaz · Quir"
+  },
+  {
+   "v": 10,
+   "tag": "O que deu errado",
+   "titulo": "Um altar sob medida",
+   "texto": [
+    "Como vassalo, Acaz foi a Damasco homenagear o rei assírio. Gostou do altar pagão de lá, copiou o projeto e mandou o sacerdote Urija construir um igual diante do templo. O altar de cobre de Jeová foi posto de lado.",
+    "Depois mutilou objetos do templo, fechou as portas e fez altares em cada esquina de Jerusalém. Ao morrer, não foi sepultado nos túmulos dos reis."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000144#h=9:0-10:0",
+   "fonteNome": "Perspicaz · Acaz"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "titulo": "Ele guia como louco",
+ "chamada": "Um jovem profeta unge um general às escondidas e sai correndo. Horas depois, um carro de guerra vem em alta velocidade na direção de Jezreel.",
+ "rei": "Jeú (Israel)",
+ "quando": "c. 905 a.C.",
+ "onde": "Ramote-Gileade · Jezreel · Megido",
+ "capa": { "img": "img/wol/mwb22-2022-993.jpg", "alt": "Jeú em seu carro de guerra; ele diz para um oficial da corte jogar Jezabel pela janela", "legenda": "Ele agiu com coragem, determinação e zelo · Apostila Vida e Ministério 2022", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022407" },
+ "intro": "Lembra de 1 Reis 19, quando Jeová mandou Elias ungir Jeú? Chegou a hora. Eliseu envia um dos filhos dos profetas a Ramote-Gileade para ungir Jeú como rei, com uma missão: eliminar a casa de Acabe.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2011848#h=9:0-10:0",
+ "achados": [
+  {
+   "v": 8, "tag": "Linha do tempo",
+   "titulo": "“Todos os da casa de Acabe”",
+   "texto": [
+    "A família de Acabe já tinha chegado aos dois tronos: em Israel, pelos filhos Acazias e Jeorão; em Judá, pelo casamento de Atalia com Jeorão de Judá e pelo neto Acazias.",
+    "Por volta de 905 a.C., Jeú mata Jeorão de Israel, Acazias de Judá e Jezabel. Atalia vai reagir no capítulo 11."
+   ],
+   "img": "img/wol/mwb22-2022-1112.jpg", "alt": "Tabela: Todos os da casa de Acabe morrerão — 2 Reis 9:8",
+   "legenda": "Tabela · Apostila Vida e Ministério, novembro de 2022",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022425#h=2:0-14:0", "fonteNome": "Apostila Vida e Ministério 11/2022"
+  },
+  {
+   "v": 17, "tag": "Geografia",
+   "titulo": "20 km de vista",
+   "texto": [
+    "Da torre de vigia de Jezreel, dava para ver tropas chegando pelo leste a uns 20 km. Isso explica o tempo para mandar dois mensageiros e para os dois reis atrelarem os carros e saírem ao encontro de Jeú.",
+    "Um estudioso comentou que em nenhuma dessas narrativas há qualquer impossibilidade geográfica."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1993441#h=20:0-21:0", "fonteNome": "A Sentinela 15/6/1993"
+  },
+  {
+   "v": 20, "tag": "Expressão",
+   "titulo": "Dirigindo como louco",
+   "texto": [
+    "O vigia reconheceu Jeú pelo jeito de guiar: “com loucura”. Se ele já costumava correr, nessa missão com certeza corria ainda mais.",
+    "Jeorão perguntou se havia paz. A resposta: que paz pode haver com as feitiçarias de Jezabel? Jeorão tentou fugir, mas Jeú o acertou com uma flecha no coração."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2011848#h=9:0-10:0", "fonteNome": "A Sentinela 15/11/2011"
+  },
+  {
+   "v": 30, "tag": "Costumes da época",
+   "titulo": "Pintura nos olhos",
+   "texto": [
+    "Jezabel pintou os olhos de preto e arrumou o cabelo. A pintura preta dava contraste com o branco dos olhos e os fazia parecer maiores.",
+    "A Bíblia não condena o uso modesto de maquiagem. Mas lembra que o que tem grande valor para Deus é “a pessoa secreta do coração”."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001046#h=4:0-5:0", "fonteNome": "Perspicaz · Cosméticos"
+  },
+  {
+   "v": 31, "tag": "Repare nas palavras",
+   "titulo": "“Foi tudo bem com Zinri?”",
+   "texto": [
+    "Da janela, Jezabel saudou Jeú com sarcasmo. Era provavelmente uma ameaça velada: Zinri também tinha matado o rei, e se suicidou sete dias depois (1 Reis 16).",
+    "Jeú respondeu: “Quem está do meu lado?” Os oficiais a jogaram pela janela. Quando foram enterrá-la, os cães só tinham deixado o crânio, os pés e as palmas das mãos, como Elias tinha predito."
+   ],
+   "img": "img/lfb/historia-49-1.jpg", "alt": "Jeú manda os servos de Jezabel a jogar pela janela",
+   "legenda": "O fim de uma rainha má · Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002463#h=10:0-11:0", "fonteNome": "Perspicaz · Jezabel"
+  }
+ ],
+ "pergunta": "Como as qualidades que Jeú mostrou — coragem, determinação e zelo — podem me ajudar a obedecer à ordem de pregar e fazer discípulos?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022407",
+ "mais": [
+  { "rotulo": "Jeú defende a adoração pura · A Sentinela", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/2011848" },
+  { "rotulo": "O fim de uma rainha má · Histórias da Bíblia", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102016059" }
+ ]
+}

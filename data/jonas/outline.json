@@ -1,0 +1,80 @@
+{
+ "1": [
+  {
+   "t": "Jonas resolve fugir de Jeová",
+   "from": 1,
+   "to": 3
+  },
+  {
+   "t": "Jeová causa uma violenta tempestade",
+   "from": 4,
+   "to": 6
+  },
+  {
+   "t": "Jonas é o responsável pela calamidade",
+   "from": 7,
+   "to": 13
+  },
+  {
+   "t": "Jonas é jogado no mar agitado",
+   "from": 14,
+   "to": 16
+  },
+  {
+   "t": "Um grande peixe engole Jonas",
+   "from": 17,
+   "to": 17
+  }
+ ],
+ "2": [
+  {
+   "t": "Oração de Jonas de dentro do peixe",
+   "from": 1,
+   "to": 9
+  },
+  {
+   "t": "O peixe vomita Jonas em terra seca",
+   "from": 10,
+   "to": 10
+  }
+ ],
+ "3": [
+  {
+   "t": "Jonas obedece a Deus e vai para Nínive",
+   "from": 1,
+   "to": 4
+  },
+  {
+   "t": "Os ninivitas se arrependem depois da mensagem de Jonas",
+   "from": 5,
+   "to": 9
+  },
+  {
+   "t": "Deus decide não destruir Nínive",
+   "from": 10,
+   "to": 10
+  }
+ ],
+ "4": [
+  {
+   "t": "Jonas fica irado e quer morrer",
+   "from": 1,
+   "to": 3
+  },
+  {
+   "t": "Jeová ensina Jonas a ter misericórdia",
+   "from": 4,
+   "to": 11
+  },
+  {
+   "t": "“Você acha certo ficar tão irado?”",
+   "from": 4,
+   "to": 4
+  },
+  {
+   "t": "Um cabaceiro para dar uma lição",
+   "from": 6,
+   "to": 10
+  }
+ ]
+}

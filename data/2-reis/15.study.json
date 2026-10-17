@@ -1,0 +1,61 @@
+{
+ "titulo": "Seis meses, um mês, dez anos",
+ "chamada": "No norte, rei mata rei: Zacarias dura seis meses, Salum um mês. E pela primeira vez aparece o nome de um rei assírio na Bíblia.",
+ "rei": "Uzias e Jotão (Judá) · Zacarias, Salum, Menaém, Pecaías e Peca (Israel)",
+ "quando": "c. 829–c. 758 a.C.",
+ "onde": "Jerusalém · Samaria · Galileia",
+ "capa": {
+  "img": "img/bm/1102009464-0.jpg",
+  "alt": "Um profeta de Deus transmite uma mensagem",
+  "legenda": "Deus fala por meio de seus profetas · A Bíblia — Qual é a Sua Mensagem?",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102009464"
+ },
+ "intro": "Este capítulo atravessa décadas rapidamente. Em Judá, Uzias (também chamado Azarias) reina 52 anos. Em Israel, a dinastia de Jeú termina, e começa uma sequência de golpes enquanto a Assíria se aproxima.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200004535#h=6:0-7:0",
+ "achados": [
+  {
+   "v": 1,
+   "tag": "Cronologia",
+   "titulo": "Rei duas vezes?",
+   "texto": [
+    "Uzias assumiu com 16 anos, quando o pai morreu. Mas o texto diz que ele se tornou rei no 27.º ano de Jeroboão II, uns 12 anos depois.",
+    "Talvez seja nesse ano que Judá se livrou da sujeição a Israel, que começou com a derrota de Amazias. Nesse sentido, Uzias “se tornou rei” de novo."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200004535#h=6:0-7:0",
+   "fonteNome": "Perspicaz · Uzias"
+  },
+  {
+   "v": 5,
+   "tag": "Pergunta difícil",
+   "titulo": "Por que Jeová o feriu com lepra?",
+   "texto": [
+    "O relato de Reis não explica, e isso poderia nos deixar confusos. Mas 2 Crônicas 26 conta: Uzias ficou orgulhoso, entrou no templo para queimar incenso, o que era tarefa dos sacerdotes, e ficou furioso quando 81 sacerdotes o corrigiram.",
+    "A lição: quanto mais conhecemos a Jeová, menos precisamos de explicação para tudo o que ele faz. Ele sempre disciplina na medida certa."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2015285#h=15:0-17:0",
+   "fonteNome": "A Sentinela 15/4/2015"
+  },
+  {
+   "v": 19,
+   "tag": "Arqueologia",
+   "titulo": "“Menaém de Samaria”",
+   "texto": [
+    "Pul é o rei assírio Tiglate-Pileser III, o primeiro rei assírio citado por nome na Bíblia. As listas de reis babilônicas e assírias mostram que eram a mesma pessoa.",
+    "Menaém pagou mil talentos de prata, cobrando 50 siclos de cerca de 60 mil homens ricos. Uma inscrição de Tiglate-Pileser III cita “Menaém de Samaria” entre os reis que lhe pagaram tributo."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002978#h=4:0-5:0",
+   "fonteNome": "Perspicaz · Menaém"
+  },
+  {
+   "v": 29,
+   "tag": "O começo do fim",
+   "titulo": "A primeira deportação",
+   "texto": [
+    "No reinado de Peca, Tiglate-Pileser tomou várias cidades do norte de Israel, além de Gileade, da Galileia e de Naftali, e levou o povo para a Assíria.",
+    "O reino de dez tribos estava sendo desmontado pedaço por pedaço."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000447#h=19:0-21:0",
+   "fonteNome": "Perspicaz · Assíria"
+  }
+ ]
+}

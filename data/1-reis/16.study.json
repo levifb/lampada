@@ -1,0 +1,59 @@
+{
+ "titulo": "Sete dias de rei",
+ "chamada": "Golpe atrás de golpe no norte: um rei reina só sete dias, um general compra um monte e funda Samaria, e Acabe se casa com Jezabel.",
+ "rei": "Baasa, Elá, Zinri, Onri, Acabe (Israel)",
+ "quando": "c. 976–940 a.C.",
+ "onde": "Tirza · Samaria · Jericó",
+ "capa": { "img": "img/wol/it-1-2020-462.jpg", "alt": "Ruínas do palácio de Acabe em Samaria, com peças de marfim encontradas na região", "legenda": "Ruínas do palácio de Acabe em Samaria · Perspicaz", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001697" },
+ "intro": "Este capítulo corre rápido, como a história do reino do norte: as dinastias caem uma atrás da outra. Ele termina apresentando o rei que vai dominar os próximos capítulos, Acabe, e sua esposa estrangeira.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003324#h=5:0-6:0",
+ "achados": [
+  {
+   "v": 9, "tag": "Contexto militar",
+   "titulo": "“Chefe da metade dos carros”",
+   "texto": [
+    "Depois de Salomão, os carros de guerra se tornaram comuns nos dois reinos. O título de Zinri mostra que o exército do norte tinha duas divisões principais de carros.",
+    "Vários reis, como Acabe, Jeorão, Acazias e Josias, seriam feridos de morte justamente nos seus carros."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000923#h=9:0-10:0", "fonteNome": "Perspicaz · Carro"
+  },
+  {
+   "v": 16, "tag": "Como aconteceu",
+   "titulo": "Um rei escolhido no acampamento",
+   "texto": [
+    "Onri chegou ao trono pela espada. Ele era chefe do exército quando Zinri matou o rei Elá e exterminou a casa de Baasa.",
+    "Ao saber disso, o exército, acampado contra os filisteus em Gibetom, fez de Onri rei ali mesmo. Eles marcharam para Tirza, e Zinri, vendo tudo perdido, pôs fogo no palácio com ele dentro."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003324#h=5:0-6:0", "fonteNome": "Perspicaz · Onri"
+  },
+  {
+   "v": 24, "tag": "Arqueologia",
+   "titulo": "O monte de Semer",
+   "texto": [
+    "No meio do reinado, Onri trocou a capital Tirza por um monte que comprou de Semer, ótimo para ser fortificado. Ali construiu Samaria, uma cidade capaz de aguentar cercos longos.",
+    "Inscrições cuneiformes também o chamam de fundador da cidade. E a Pedra Moabita registra que Onri dominou Moabe, domínio que Acabe manteve."
+   ],
+   "img": "img/wol/it-2-2020-411.jpg", "alt": "Ruínas romanas da antiga Samaria",
+   "legenda": "Ruínas da antiga Samaria · Perspicaz",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003324", "fonteNome": "Perspicaz · Onri"
+  },
+  {
+   "v": 31, "tag": "Quem é quem",
+   "titulo": "Jezabel, filha de um sacerdote",
+   "texto": [
+    "Acabe continuou com os bezerros de Jeroboão e ainda deixou a adoração de Baal se espalhar como nunca, por causa do casamento com Jezabel, filha de Etbaal, rei de Sídon.",
+    "O historiador Josefo, citando Menandro, diz que Etbaal tinha sido sacerdote da deusa Astarteia antes de chegar ao trono."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000138#h=4:0-6:0", "fonteNome": "Perspicaz · Acabe"
+  },
+  {
+   "v": 34, "tag": "Profecia cumprida",
+   "titulo": "Uma maldição de 500 anos",
+   "texto": [
+    "Quando Jericó foi destruída, Josué declarou que quem a reconstruísse perderia o primogênito ao lançar os alicerces e o caçula ao pôr os portões.",
+    "Uns 500 anos depois, nos dias de Acabe, Hiel de Betel reconstruiu Jericó, e foi exatamente isso o que aconteceu."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1998685#h=10:0-11:0", "fonteNome": "A Sentinela 15/9/1998"
+  }
+ ]
+}

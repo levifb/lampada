@@ -1,0 +1,53 @@
+{
+ "titulo": "O quarto no terraço",
+ "chamada": "Uma viúva prestes a perder os filhos, um casal que constrói um quartinho para o profeta e um menino que morre no colo da mãe. Eliseu em ação.",
+ "rei": "Jeorão (Israel)",
+ "onde": "Suném · Monte Carmelo · Gilgal",
+ "capa": { "img": "img/wol/mwb22-2022-915.jpg", "alt": "A mulher sunamita, muito feliz, abraça seu filho ressuscitado e Eliseu está olhando para eles", "legenda": "“Pegue o seu filho” · Apostila Vida e Ministério 2022", "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022342" },
+ "intro": "Este capítulo é uma sequência de milagres na vida de gente comum: azeite que não acaba para pagar uma dívida, um filho para uma mulher estéril, uma ressurreição, uma panela envenenada e pão que sobra. O ministério de Eliseu durou uns 60 anos.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1997727#h=8:0-9:0",
+ "achados": [
+  {
+   "v": 10, "tag": "Costumes da época",
+   "titulo": "O quarto de terraço",
+   "texto": [
+    "Muitas casas tinham um quarto em cima do terraço, agradável e fresco, que servia de quarto de hóspedes. Uma escada externa levava do pátio ao terraço.",
+    "Foi um quarto assim que a sunamita e o marido prepararam para Eliseu, com cama, mesa, cadeira e candelabro."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002095#h=15:0-16:0", "fonteNome": "Perspicaz · Casa"
+  },
+  {
+   "v": 13, "tag": "Para o coração",
+   "titulo": "Por que tanta hospitalidade?",
+   "texto": [
+    "Ela insistia que Eliseu ficasse na casa dela toda vez que passasse por ali porque dava valor ao trabalho dele. Eliseu era como a consciência da nação.",
+    "Jesus disse que quem recebe um profeta recebe a recompensa de profeta. Jeová deu a ela um filho e, anos depois, ajuda durante uma fome de sete anos (2 Reis 8:1-6). A bondade com os servos de Deus nunca passa despercebida."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1997727#h=8:0-9:0", "fonteNome": "A Sentinela 1/10/1997"
+  },
+  {
+   "v": 29, "tag": "Expressão",
+   "titulo": "“Cinja os lombos”",
+   "texto": [
+    "Para correr ou trabalhar, a pessoa puxava as pontas da roupa para cima, entre as pernas, e prendia no cinto. Assim ficava com liberdade de movimento.",
+    "Eliseu mandou Geazi fazer isso: era urgente."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001224#h=21:0-22:0", "fonteNome": "Perspicaz · Vestimenta"
+  },
+  {
+   "v": 39, "tag": "A natureza",
+   "titulo": "A “morte na panela”",
+   "texto": [
+    "As “bagas silvestres” eram provavelmente colocíntidas, frutas parecidas com uma laranja, aparentadas com a melancia, de polpa muito amarga e venenosa.",
+    "Elas continuam verdes quando outras plantas já murcharam, o que é uma tentação para quem não as conhece, ainda mais em tempo de fome."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200001747#h=1:0-5:0", "fonteNome": "Perspicaz · Bagas"
+  }
+ ],
+ "pergunta": "Como posso ser hospitaleiro com os servos de Jeová, como a sunamita foi com Eliseu?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/2005562#h=20:0-21:0",
+ "mais": [
+  { "rotulo": "“Pegue o seu filho” · Apostila Vida e Ministério 2022", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/202022342" },
+  { "rotulo": "Dois meninos revivem · Meu Livro de Histórias Bíblicas", "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1101978123" }
+ ]
+}

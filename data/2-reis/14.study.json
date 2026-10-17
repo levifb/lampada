@@ -1,0 +1,72 @@
+{
+ "titulo": "O espinheiro e o cedro",
+ "chamada": "Um rei de Judá, cheio de si depois de uma vitória, desafia Israel. A resposta vem em forma de fábula, e depois na forma de um buraco de 178 metros na muralha de Jerusalém.",
+ "rei": "Amazias (Judá) · Jeoás e Jeroboão II (Israel)",
+ "quando": "858–c. 803 a.C.",
+ "onde": "Bete-Semes · Jerusalém · Laquis",
+ "capa": {
+  "img": "img/wol/it-2-2020-409.jpg",
+  "alt": "Penhascos calcários na costa oeste do Mar Salgado",
+  "legenda": "Penhascos na costa do mar Salgado, o “mar do Arabá” · Perspicaz",
+  "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200003813"
+ },
+ "intro": "Amazias começou bem, mas depois de vencer Edom trouxe para casa os deuses dos edomitas e passou a adorá-los. Em seguida, quis medir forças com o reino do norte.",
+ "introFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000224#h=6:0-7:0",
+ "achados": [
+  {
+   "v": 9,
+   "tag": "Uma fábula",
+   "titulo": "O espinheiro que desafiou o cedro",
+   "texto": [
+    "Jeoás respondeu com um insulto: Judá era um espinheiro, e Israel, um cedro do Líbano. Um animal selvagem passou e pisou no espinheiro.",
+    "O cedro, na Bíblia, representa imponência e força, real ou aparente. Amazias não ouviu."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000908#h=9:0-10:0",
+   "fonteNome": "Perspicaz · Cedro"
+  },
+  {
+   "v": 13,
+   "tag": "Em números",
+   "titulo": "Uma brecha de 178 metros",
+   "texto": [
+    "Judá fugiu em Bete-Semes, e Amazias foi capturado. Jeoás abriu uma brecha de uns 178 metros (400 côvados) na muralha de Jerusalém e levou tesouros do templo e reféns para Samaria.",
+    "Mais tarde houve uma conspiração, e Amazias foi morto em Laquis."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000224#h=6:0-7:0",
+   "fonteNome": "Perspicaz · Amazias"
+  },
+  {
+   "v": 25,
+   "tag": "Quem é quem",
+   "titulo": "O profeta Jonas aparece",
+   "texto": [
+    "Jeroboão II restaurou as fronteiras de Israel exatamente como Jeová tinha dito por meio de Jonas, filho de Amitai. Isso situa Jonas por volta de 844 a.C.",
+    "Ele era de Gate-Héfer, a uns 4 km de Nazaré, onde Jesus cresceria uns oito séculos depois. Sim, é o mesmo Jonas do grande peixe."
+   ],
+   "img": "img/lfb/historia-54.jpg",
+   "alt": "Jonas afunda no mar e um peixe gigante aparece",
+   "legenda": "Jeová foi paciente com Jonas · Aprenda com as Histórias da Bíblia",
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102013259#h=7:0-8:0",
+   "fonteNome": "Imite a Sua Fé · Ele aprendeu de seus erros"
+  },
+  {
+   "v": 28,
+   "tag": "Contexto",
+   "titulo": "Prosperidade por fora, podridão por dentro",
+   "texto": [
+    "Sob Jeroboão II, Israel recuperou territórios e talvez tenha tornado Damasco e Hamate tributários. Veio uma onda de prosperidade.",
+    "Mas o declínio espiritual continuou: fraude, roubo, imoralidade, opressão e idolatria. É nessa época que os profetas Amós e Oseias denunciam Israel."
+   ],
+   "fonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200002431#h=13:0-14:0",
+   "fonteNome": "Perspicaz · Jeroboão"
+  }
+ ],
+ "pergunta": "Será que uma vitória ou um sucesso já me deixou cheio de mim? Como evitar a atitude de Amazias?",
+ "perguntaFonte": "https://wol.jw.org/pt/wol/d/r5/lp-t/1200000224",
+ "mais": [
+  {
+   "rotulo": "Ele aprendeu de seus erros · Imite a Sua Fé (Jonas)",
+   "url": "https://wol.jw.org/pt/wol/d/r5/lp-t/1102013259"
+  }
+ ]
+}
